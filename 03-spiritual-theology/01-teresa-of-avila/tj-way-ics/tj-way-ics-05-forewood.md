@@ -1,0 +1,42 @@
+---
+type: doctor-work
+title: "Forewood – Way of Perfection by St. Teresa of Avila, ICS Publications"
+anchor:
+  - "[[_tj-way-ics]]"
+source: "Teresa of Avila. The Way of Perfection: A Study Edition. Washington, DC: ICS Publications, n.d."
+author: "[[teresa-of-avila-saint|Saint Teresa of Ávila]]"
+aliases:
+  - Forewood
+  - Forewood – Way of Perfection by St. Teresa of Avila, ICS Publications
+  - tj-way-ics-05-forewood-wn
+tags:
+  - author/st-teresa-of-avila
+  - book/tj-wop-ics
+  - type/doctor-work
+layer: 2
+authority: witness
+scope: universal
+created: 2025-10-25
+modified: 2026-09-10
+description: Forewood – Way of Perfection
+---
+
+> [[tj-way-ics-04-prologue|← Previous]] | [[_tj-way-ics-toc|TOC]] | [[tj-way-ics-06-footnotes|Next →]]
+
+# Forewood
+
+*The book called The Way of Perfection written by Teresa of Jesus, a nun of the Order of our Lady of Mount Carmel. This book is intended for the discalced nuns who observe the primitive rule of our Lady of Mount Carmel.*
+
+JHS
+
+This book deals with the advice and counsel Teresa of Jesus gives to her religious Sisters and daughters who live in the monasteries that, with the help of our Lord and the glorious Virgin Mother of God, our Lady, she founded. These monasteries follow the primitive rule of our Lady of Mount Carmel. She directs her counsel particularly to the Sisters at St. Joseph's monastery in Avila, which was the first foundation and the place where she was prioress when she wrote this book.[[tj-way-ics-06-footnotes#^tj-way-ics-fn-forew-1|1]]
+
+In all that I say in this book I submit to what our Mother the Holy Roman Church holds.[[tj-way-ics-06-footnotes#^tj-way-ics-fn-forew-2|2]] If there should be anything contrary to that, it will be due to my not understanding the matter. And so I beg the learned men who will see this work to look it over carefully and to correct any mistake there may be as to what the church holds, as well as any other mistakes in other matters. If there should be anything good in this work, may it be for the honor and glory of God and the service of his most Blessed Mother, our Lady and Patroness, whose habit I wear despite my being very unworthy to do so.
+
+JHS
+
+---
+
+> [[tj-way-ics-04-prologue|← Previous]] | [[_tj-way-ics-toc|TOC]] | [[tj-way-ics-06-footnotes|Next →]]
+
+![[bibliography#^biblio-tj-wop-ics]]

@@ -1,0 +1,152 @@
+---
+type: bible
+title: Psalm 65
+anchor: psalm-65
+url: "https://bible.usccb.org/bible/psalms/65"
+source: "Confraternity of Christian Doctrine. New American Bible, revised edition. Washington, DC: Confraternity of Christian Doctrine, 2010."
+aliases:
+  - Psalm 65
+  - psalm-65
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - graph/bible-ccc
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 65
+created: 2026-04-18
+modified: 2026-09-10
+description: "Psalms, Psalm 65"
+---
+
+> [[psalm-64|← Previous]] | [[psalm-00|TOC]] | [[psalm-66|Next →]]
+
+# Psalm 65
+
+## Thanksgiving for God’s Blessings
+
+1 For the leader. A psalm of David. A song. ^psalm-65-1
+
+### I
+
+2 To you we owe our hymn of praise, ^psalm-65-2
+
+O God on Zion;
+
+To you our vows must be fulfilled,
+
+3 you who hear our prayers. ^psalm-65-3
+
+To you all flesh must come
+
+4 with its burden of wicked deeds. ^psalm-65-4
+
+We are overcome by our sins;
+
+only you can pardon them.
+
+5 Blessed the one whom you will choose and bring ^psalm-65-5
+
+to dwell in your courts.
+
+May we be filled with the good things of your house,
+
+your holy temple!
+
+### II
+
+6 You answer us with awesome deeds of justice, ^psalm-65-6
+
+O God our savior,
+
+The hope of all the ends of the earth
+
+and of those far off across the sea.
+
+7 You are robed in power, ^psalm-65-7
+
+you set up the mountains by your might.
+
+8 You still the roaring of the seas, ^psalm-65-8
+
+the roaring of their waves,
+
+the tumult of the peoples.
+
+9 Distant peoples stand in awe of your marvels; ^psalm-65-9
+
+the places of morning and evening you make resound with joy.
+
+10 You visit the earth and water it, ^psalm-65-10
+
+make it abundantly fertile.
+
+God’s stream is filled with water;
+
+you supply their grain.
+
+Thus do you prepare it:
+
+11 you drench its plowed furrows, ^psalm-65-11
+
+and level its ridges.
+
+With showers you keep it soft,
+
+blessing its young sprouts.
+
+12 You adorn the year with your bounty; ^psalm-65-12
+
+your paths drip with fruitful rain.
+
+13 The meadows of the wilderness also drip; ^psalm-65-13
+
+the hills are robed with joy.
+
+14 The pastures are clothed with flocks, ^psalm-65-14
+
+the valleys blanketed with grain;
+
+they cheer and sing for joy.
+
+---
+
+\* (Psalm 65) The community, aware of its unworthiness (Ps 65:3 – 4), gives thanks for divine bounty (Ps 65:5), a bounty resulting from God’s creation victory (Ps 65:6 – 9). At God’s touch the earth comes alive with vegetation and flocks (Ps 65:10 – 13).
+
+\* (65:2) Vows: the Israelites were accustomed to promising sacrifices in the Temple if their prayers were heard.
+
+\* (65:3) To you all flesh must come: all must have recourse to God’s mercy.
+
+\* (65:6) Awesome deeds: the acts of creating—installing mountains, taming seas, restraining nations (Ps 65:7 – 8)—that are visible worldwide (Ps 65:6, 9).
+
+\* (65:10 – 14) Apparently a description of the agricultural year, beginning with the first fall rains that soften the hard sun-baked soil (Ps 65:9 – 10).
+
+\* (65:10) God’s stream: the fertile waters of the earth derive from God’s fertile waters in the heavenly world.
+
+\* (65:12) Paths: probably the tracks of God’s storm chariot dropping rain upon earth.
+
+---
+
+a. (65:3) Is 66:23.
+
+b. (65:4) Ps 32:1 – 2; 78:38; Is 1:18.
+
+c. (65:6) Is 66:19.
+
+d. (65:8) Ps 89:10; 107:29; Jb 38:11; [[matthew-08#^matthew-08-26|Mt 8:26]].
+
+e. (65:8) [[isaiah-17#^isaiah-17-12|Is 17:12]].
+
+f. (65:10) Lv 26:4; Is 30:23, 25; Jl 2:22 – 23.
+
+g. (65:14) Is 44:23.
+
+---
+
+> [[psalm-64|← Previous]] | [[psalm-00|TOC]] | [[psalm-66|Next →]]
+
+![[bibliography#^biblio-nabre]]

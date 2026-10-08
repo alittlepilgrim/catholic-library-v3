@@ -1,0 +1,69 @@
+---
+type: reference-work
+title: 159. Practical Conduct
+anchor: gsmm-di
+source: "Gabriel of Saint Mary Magdalen, O.C.D. Divine Intimacy. Meditations on the Interior Life for Every Day of the Liturgical Year. Translated by the Discalced Carmelite Nuns of Boston. Rockford, IL. TAN Books, 1996."
+author: "[[gabriel-of-st-mary-magdalen|Gabriel of St. Mary Magdalen]]"
+about:
+  - "[[contemplation]]"
+  - "[[gifts-of-the-holy-spirit]]"
+  - "[[holy-spirit]]"
+  - "[[prayer]]"
+aliases:
+  - 159-practical-conduct
+  - 159. Practical Conduct
+tags:
+  - book/divine-intimacy
+  - subject/mysticism
+  - term/contemplation
+  - term/gifts-of-the-holy-spirit
+  - term/holy-spirit
+  - term/prayer
+  - type/reference-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-05-18
+modified: 2026-09-10
+description: "Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D."
+---
+
+> [[158-loving-attention|← 158. Loving Attention to God]] | [[divine-intimacy-toc|TOC]] | [[160-the-life-of-prayer|160. The Life of Prayer →]]
+
+# 159. Practical Conduct
+
+# Presence of God
+
+O Lord, may Your light always be my guide, so that I shall not go astray.
+
+# Meditation 1
+
+During this period of transition from meditation to [[contemplation|contemplation]], it is very important for the soul to have a clear understanding of that "general, loving attention to God" mentioned by St. John of the Cross, in order to know how to act, and how to obtain from it the best fruit possible. In the Saint’s opinion this new form of [[prayer|prayer]] results from the exercise of the theological virtues, aided by the secret, delicate influence of the [[gifts-of-the-holy-spirit|gifts of the Holy Spirit]]. In other words, on the part of the soul it is a question of an exercise of faith and love so intense and simplified that, without having recourse to the continual repetition of distinct acts, the soul finds itself in an attitude of loving attention to God. Far from being idle, the soul fixes its gaze on God precisely by means of this prolonged act of faith and love. But it is not alone in this exercise. The [[holy-spirit|Holy Spirit]] comes to meet it, and by a secret actuation of His gifts, orientates and attracts it to God, infusing in it a loving knowledge of Him. In this way the soul can persevere for a long time in this truly contemplative attitude; and because it is helped by the Holy Spirit, it "will take pleasure in being alone and waiting with loving attentiveness upon God, in interior peace, quietness, and rest, without making any particular meditation" (J C. AS II, 13,4).
+
+However, the influence of the gifts will not always be strong and pleasant enough to keep the soul peacefully occupied with God; often, especially at first, it will be weak and therefore the soul more arid. Generally in this the soul will not make steady progress; hence, in order to remain recollected in God, it will often have to use its own efforts. At this point, it will be very useful for the soul to apply itself principally to the occasional renewing of its acts of faith and love, simply because its part, in this kind of prayer, consists in an intense exercise of faith and of love.
+
+# Meditation 2
+
+In speaking of the passage from meditation to contemplation, St. John of the Cross remarks that it does not take place in the same manner in every soul, not only in the sense that it is not accomplished in all at an equal rate, but also because God does not call everyone to the contemplative state. In the Ascent of Mount Carmel (II, 13), he teaches that the soul should not give up meditation definitively until the habit of contemplation is formed; and referring to this, he remarks that many times the soul finds itselfin contemplation from the very first moment of prayer, whereas at other times it needs to be helped in the beginning by meditation. He even expressly states: "As long as the soul can reason with pleasure in meditation, it should not stop doing so until it is in the peace and quiet... ofloving attentiveness to God" (A5 II, 13,2-4). Here we find a period of fluctuation more or less prolonged between meditation and contemplation. Thus, there are some souls whom God never completely takes away from meditative prayer.
+
+This makes us understand that our arrival at initial contemplation does not dispense us from personal activity. First of all, we should make a very careful preparation for prayer, using a book, if necessary; if we cannot then fix our attention on what has been read, at least the reading will have helped to recollect the mind in God. Likewise, we must always begin our prayer by putting ourselves wholly in the presence of God, and then proceed according to the grace of the moment, being grateful to God if He recollects us quite simply in Himself, and diligent in helping ourselves by reflection or by means of a book when we feel that our thoughts are beginning to wander. We must also remember that even when the soul has entered into a state of loving attentiveness to God, the imagination may still roam here and there; for as St. John of the Cross says: "Even at times of great recollection, it can still be a wanderer" (ibid. 13,3). This activity of the imagination is not always a sign that the soul should return to meditation. Instead, it should try to become recollected above and beyond its thoughts, and if it sees that it remains in union with God, even in aridity, let it persevere thus, although the effort will be greater than when it had recourse to the reading of a pious book.
+
+# Colloquy
+
+"O God, my God, to Thee do I watch at break of day. For Thee my soul hath thirsted; for Thee my flesh, O how many ways! In a desert land, and where there is no way, and no water" [[psalm-63#^psalm-63-2|(Ps 62,2)]].
+
+"Who will give me to rest in You? Who will make You enter my heart and inebriate it, so that I shall forget my misfortunes and embrace You, my only Good? What areYou to me? In Your goodness, permit me to speak. What am I to You, that You enjoin me to love You, and are disturbed if I do not love You, and threaten me with all kinds of ills? IfI do not love You, does that mean that I am slighting You? Poor creature that I am, tell me, in Your mercy, Lord, my God, tell me what You are to me? Say to my soul: ‘I am your salvation!’ Say it so that I shall hear it.The ear of my heart is turned toward You. Open it, O Lord, and say to my soul: ‘I am your salvation!’ I shall followYour voice and adhere to You. Do not hide Your face from me...
+
+"O Father, I do not know the road that will bring me to You. Show it to me; teach me the way. Give me whatever I need. If those who take refuge in You find You by faith, then give me faith; ifthey find You by virtue, give me virtue, and increase my faith and charity" ([[augustine-of-hippo-saint|St. Augustine]]).
+
+Give me an immovable faith, O Lord, and an ardent charity! Faith and love are the guide-posts which will take me by unfamiliar paths to the place where You hide Yourself. Grant that I may walk in faith and love, and await in faith and love Your visit to my soul. O Holy Spirit, You pray within me "with unspeakable groanings" [[romans-08#^romans-08-26|(Rom 8,26)]]; help my misery, illumine my faith and awaken charity in me. You penetrate "the depths of divine mysteries" [[1-corinthians-02#^1-corinthians-02-10|(cf. 1 Cor 2,10)]]; instruct me, be my teacher, help me to know my God. You who are the Spirit of Love, give me a loving knowledge of Him, so that I may always tend toward Him and be entirely captivated by love of Him.
+
+# References
+
+AS - [[jc-ccel-ascent-toc|Ascent of Mt. Carmel by Saint John of the Cross]]
+
+---
+
+> [[158-loving-attention|← 158. Loving Attention to God]] | [[divine-intimacy-toc|TOC]] | [[160-the-life-of-prayer|160. The Life of Prayer →]]
+
+![[bibliography#^biblio-di]]

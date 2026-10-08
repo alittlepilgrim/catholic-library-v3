@@ -1,0 +1,118 @@
+---
+type: bible
+title: Psalm 101
+anchor: psalm-101
+url: "https://bible.usccb.org/bible/psalms/101"
+source: "Confraternity of Christian Doctrine. New American Bible, revised edition. Washington, DC: Confraternity of Christian Doctrine, 2010."
+aliases:
+  - Psalm 101
+  - psalm-101
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - graph/bible-ccc
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 101
+created: 2026-04-18
+modified: 2026-09-10
+description: "Psalms, Psalm 101"
+---
+
+> [[psalm-100|← Previous]] | [[psalm-00|TOC]] | [[psalm-102|Next →]]
+
+# Psalm 101
+
+## Norm of Life for Rulers
+
+1 A psalm of David. ^psalm-101-1
+
+### I
+
+I sing of mercy and justice;
+
+to you, LORD, I sing praise.
+
+2 I study the way of integrity; ^psalm-101-2
+
+when will you come to me?
+
+I act with integrity of heart
+
+within my household.
+
+3 I do not allow into my presence anything base. ^psalm-101-3
+
+I hate wrongdoing;
+
+I will have no part of it.
+
+4 May the devious heart keep far from me; ^psalm-101-4
+
+the wicked I will not acknowledge.
+
+5 Whoever slanders a neighbor in secret ^psalm-101-5
+
+I will reduce to silence.
+
+Haughty eyes and arrogant hearts
+
+I cannot endure.
+
+### II
+
+6 I look to the faithful of the land ^psalm-101-6
+
+to sit at my side.
+
+Whoever follows the way of integrity
+
+is the one to enter my service.
+
+7 No one who practices deceit ^psalm-101-7
+
+can remain within my house.
+
+No one who speaks falsely
+
+can last in my presence.
+
+8 Morning after morning I clear all the wicked from the land, ^psalm-101-8
+
+to rid the city of the LORD of all doers of evil.
+
+---
+
+\* (Psalm 101) The king, grateful at being God’s chosen (Ps 101:1), promises to be a ruler after God’s own heart (Ps 101:2 – 3), allowing into the royal service only the God-fearing (Ps 101:3 – 8).
+
+\* (101:2) Within my household: the king promises to make his own household, i.e., the royal court, a model for Israel, banning all officials who abuse their power.
+
+\* (101:6) I look to the faithful of the land: the king seeks companions only among those faithful to God.
+
+\* (101:8) Morning after morning: the morning is the normal time for the administration of justice (2 Sm 15:2; Jer 21:12) and for the arrival of divine aid (Ps 59:17; 143:8; Is 33:2). I clear all the wicked from the land: the king, as God’s servant, is responsible for seeing that divine justice is carried out.
+
+---
+
+a. (101:2) [[psalm-26#^psalm-26-11|Ps 26:11]]; Is 33:15.
+
+b. (101:2) 1 Kgs 9:4.
+
+c. (101:3) Prv 11:20.
+
+d. (101:5) Prv 17:20; 30:10.
+
+e. (101:5) Prv 21:4.
+
+f. (101:6) [[psalm-26#^psalm-26-11|Ps 26:11]]; Prv 20:7.
+
+g. (101:7) [[psalm-05#^psalm-05-5|Ps 5:5]]; Prv 25:5.
+
+---
+
+> [[psalm-100|← Previous]] | [[psalm-00|TOC]] | [[psalm-102|Next →]]
+
+![[bibliography#^biblio-nabre]]

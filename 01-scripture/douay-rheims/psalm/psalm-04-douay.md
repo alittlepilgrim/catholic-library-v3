@@ -1,0 +1,56 @@
+---
+type: bible
+title: "Psalm 4 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Psalm 4 (Douay-Rheims)"
+  - psalm-04-douay
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 4
+created: 2026-09-28
+modified: 2026-09-28
+description: "Psalm 4, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[psalm-03-douay|← Previous]] | [[psalm-00-douay|TOC]] | [[psalm-05-douay|Next →]]
+
+# Psalm 4
+
+1 Unto the end, in verses. A psalm for David. **Unto the end...** Or, as St. Jerome renders it, *victori*, to him that overcometh: which some understand of the chief musician; to whom they suppose the psalms, which bear that title, were given to be sung: we rather understand the psalms thus inscribed to refer to Christ, who is the end of the law, and the great conqueror of death and hell, and to the New Testament. -- Ibid. **In verses, in carminibus...** In the Hebrew, it is *neghinoth*, supposed by some to be a musical instrument, with which this psalm was to be sung. -- Ibid. **For David, or to David...** That is, inspired to David himself, or to be sung. ^psalm-04-1-douay
+
+2 When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. Have mercy on me: and hear my prayer. ^psalm-04-2-douay
+
+3 O ye sons of men, how long will you be dull of heart? why do you love vanity, and seek after lying? ^psalm-04-3-douay
+
+4 Know ye also that the Lord hath made his holy one wonderful: the Lord will hear me when I shall cry unto him. ^psalm-04-4-douay
+
+5 Be ye angry, and sin not: the things you say in your hearts, be sorry for them upon your beds. ^psalm-04-5-douay
+
+6 Offer up the sacrifice of justice, and trust in the Lord: many say, Who showeth us good things? ^psalm-04-6-douay
+
+7 The light of thy countenance, O Lord, is signed upon us: thou hast given gladness in my heart. ^psalm-04-7-douay
+
+8 By the fruit of their corn, their wine, and oil, they rest: ^psalm-04-8-douay
+
+9 In peace in the self same I will sleep, and I will rest: ^psalm-04-9-douay
+
+10 For thou, O Lord, singularly hast settled me in hope. ^psalm-04-10-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[psalm-03-douay|← Previous]] | [[psalm-00-douay|TOC]] | [[psalm-05-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

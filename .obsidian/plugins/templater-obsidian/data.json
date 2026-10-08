@@ -1,0 +1,42 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "00-admin/templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "05-terms",
+      "template": "00-admin/templates/template-term.md"
+    },
+    {
+      "folder": "06-figures",
+      "template": "00-admin/templates/template-figure.md"
+    },
+    {
+      "folder": "07-works",
+      "template": "00-admin/templates/template-work.md"
+    },
+    {
+      "folder": "08-feasts",
+      "template": "00-admin/templates/template-feast.md"
+    },
+    {
+      "folder": "/",
+      "template": "00-admin/templates/template-default.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": [],
+  "trigger_on_file_creation": true,
+  "enable_folder_templates": true
+}

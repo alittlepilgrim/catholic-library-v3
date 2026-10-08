@@ -1,0 +1,94 @@
+---
+type: bible
+title: "Daniel 6 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Daniel 6 (Douay-Rheims)"
+  - daniel-06-douay
+tags:
+  - bible/chapter
+  - bible/daniel
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: daniel
+bible_chapter: 6
+created: 2026-09-28
+modified: 2026-09-28
+description: "Daniel 6, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[daniel-05-douay|← Previous]] | [[daniel-00-douay|TOC]] | [[daniel-07-douay|Next →]]
+
+# Daniel Chapter 6
+
+Daniel is promoted by Darius: his enemies procure a law forbidding prayer; for the transgression of this law Daniel is cast into the lions' den: but miraculously delivered.
+
+1 It seemed good to Darius, and he appointed over the kingdom a hundred and twenty governors, to be over his whole kingdom. ^daniel-06-1-douay
+
+2 And three princes over them of whom Daniel was one: that the governors might give an account to them, and the king might have no trouble. ^daniel-06-2-douay
+
+3 And Daniel excelled all the princes, and governors: because a greater spirit of God was in him. ^daniel-06-3-douay
+
+4 And the king thought to set him over all the kingdom; whereupon the princes, and the governors, sought to find occasion against Daniel, with regard to the king: and they could find no cause, nor suspicion, because he was faithful, and no fault, nor suspicion was found in him. ^daniel-06-4-douay
+
+5 Then these men said: We shall not find any occasion against this Daniel, unless perhaps concerning the law of his God. ^daniel-06-5-douay
+
+6 Then the princes, and the governors, craftily suggested to the king, and spoke thus unto him: King Darius, live for ever: ^daniel-06-6-douay
+
+7 All the princes of the kingdom, the magistrates, and governors, the senators, and judges, have consulted together, that an imperial decree, and an edict be published: That whosoever shall ask any petition of any god, or man, for thirty days, but of thee, O king, shall be cast into the den of the lions. ^daniel-06-7-douay
+
+8 Now, therefore, O king, confirm the sentence, and sign the decree: that what is decreed by the Medes and Persians may not be altered, nor any man be allowed to transgress it. ^daniel-06-8-douay
+
+9 So king Darius set forth the decree, and established it. ^daniel-06-9-douay
+
+10 Now, when Daniel knew this, that is to say, that the law was made, he went into his house: and opening the windows in his upper chamber towards Jerusalem, he knelt down three times a day, and adored and gave thanks before his God, as he had been accustomed to do before. ^daniel-06-10-douay
+
+11 Wherefore those men carefully watching him, found Daniel praying and making supplication to his God. ^daniel-06-11-douay
+
+12 And they came and spoke to the king concerning the edict: O king, hast thou not decreed, that every man that should make a request to any of the gods, or men, for thirty days, but to thyself, O king, should be cast into the den of the lions? And the king answered them, saying: The word is true, according to the decree of the Medes and Persians, which it is not lawful to violate. ^daniel-06-12-douay
+
+13 Then they answered, and said before the king: Daniel, who is of the children of the captivity of Juda, hath not regarded thy law, nor the decree that thou hast made: but three times a day he maketh his prayer. ^daniel-06-13-douay
+
+14 Now when the king had heard these words, he was very much grieved, and in behalf of Daniel he set his heart to deliver him, and even till sunset he laboured to save him. ^daniel-06-14-douay
+
+15 But those men perceiving the king's design, said to him: Know thou, O king, that the law of the Medes and Persians is, that no decree which the king hath made, may be altered. ^daniel-06-15-douay
+
+16 Then the king commanded, and they brought Daniel, and cast him into the den of the lions. And the king said to Daniel: Thy God, whom thou always servest, he will deliver thee. ^daniel-06-16-douay
+
+17 And a stone was brought, and laid upon the mouth of the den: which the king sealed with his own ring, and with the ring of his nobles, that nothing should be done against Daniel. ^daniel-06-17-douay
+
+18 And the king went away to his house, and laid himself down without taking supper, and meat was not set before him, and even sleep departed from him. ^daniel-06-18-douay
+
+19 Then the king rising very early in the morning, went in haste to the lions' den: ^daniel-06-19-douay
+
+20 And coming near to the den, cried with a lamentable voice to Daniel, and said to him: Daniel, servant of the living God, hath thy God, whom thou servest always, been able, thinkest thou, to deliver thee from the lions? ^daniel-06-20-douay
+
+21 And Daniel answering the king, said: O king, live for ever: ^daniel-06-21-douay
+
+22 My God hath sent his angel, and hath shut up the mouths of the lions, and they have not hurt me: forasmuch as before him justice hath been found in me: yea, and before thee, O king, I have done no offence. ^daniel-06-22-douay
+
+23 Then was the king exceeding glad for him, and he commanded that Daniel should be taken out of the den: and Daniel was taken out of the den, and no hurt was found in him, because he believed in his God. ^daniel-06-23-douay
+
+24 And by the king's commandment, those men were brought that had accused Daniel: and they were cast into the lions' den, they and their children, and their wives: and they did not reach the bottom of the den, before the lions caught them, and broke all their bones in pieces. ^daniel-06-24-douay
+
+25 Then king Darius wrote to all people, tribes, and languages, dwelling in the whole earth: PEACE be multiplied unto you. ^daniel-06-25-douay
+
+26 It is decreed by me, that in all my empire and my kingdom, all men dread and fear the God of Daniel. For he is the living and eternal God for ever: and his kingdom shall not be destroyed, and his power shall be for ever. ^daniel-06-26-douay
+
+27 He is the deliverer, and saviour, doing signs and wonders in heaven, and in earth: who hath delivered Daniel out of the lions' den. ^daniel-06-27-douay
+
+28 Now Daniel continued unto the reign of Darius, and the reign of Cyrus, the Persian. ^daniel-06-28-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[daniel-05-douay|← Previous]] | [[daniel-00-douay|TOC]] | [[daniel-07-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

@@ -1,0 +1,58 @@
+---
+type: bible
+title: "Psalm 137 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Psalm 137 (Douay-Rheims)"
+  - psalm-137-douay
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 137
+created: 2026-09-28
+modified: 2026-09-28
+description: "Psalm 137, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[psalm-136-douay|← Previous]] | [[psalm-00-douay|TOC]] | [[psalm-138-douay|Next →]]
+
+# Psalm 137
+
+Thanksgiving to God for his benefits.
+
+Does this psalm differ from what you were expecting? Don't be confused. There are two systems for arranging the psalms: the **Septuagint** and the **Masoretic**. We use the Septuagint system here. In the Masoretic system, which is used in most modern Bible translations, this psalm is called **Psalm 138**, and the **[[psalm-136-douay|previous psalm]]** is known as **Psalm 137**.
+
+1 For David himself. ^psalm-137-1-douay
+
+I will praise thee, O Lord, with my whole heart: for thou hast heard the words of my mouth. I will sing praise to thee in the sight of the angels:
+
+2 I will worship towards thy holy temple, and I will give glory to thy name. For thy mercy, and for thy truth: for thou hast magnified thy holy name above all. ^psalm-137-2-douay
+
+3 In what day soever I shall call upon thee, hear me: thou shalt multiply strength in my soul. ^psalm-137-3-douay
+
+4 May all the kings of the earth give glory to thee: for they have heard all the words of thy mouth. ^psalm-137-4-douay
+
+5 And let them sing in the ways of the Lord: for great is the glory of the Lord. ^psalm-137-5-douay
+
+6 For the Lord is high, and looketh on the low: and the high he knoweth afar off. ^psalm-137-6-douay
+
+7 If I shall walk in the midst of tribulation, thou wilt quicken me: and thou hast stretched forth thy hand against the wrath of my enemies: and thy right hand hath saved me. ^psalm-137-7-douay
+
+8 The Lord will repay for me: thy mercy, O Lord, endureth for ever: O despise not the works of thy hands. ^psalm-137-8-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[psalm-136-douay|← Previous]] | [[psalm-00-douay|TOC]] | [[psalm-138-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

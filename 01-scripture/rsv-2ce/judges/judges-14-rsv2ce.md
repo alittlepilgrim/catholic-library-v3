@@ -1,0 +1,76 @@
+---
+type: bible
+title: "Judges 14 (RSV-2CE)"
+source: "The Holy Bible, Revised Standard Version, Second Catholic Edition (The Ignatius Bible). San Francisco: Ignatius Press, 2006."
+aliases:
+  - "Judges 14 (RSV-2CE)"
+  - "Judges 14 – RSV-2CE"
+  - judges-14-rsv2ce
+tags:
+  - bible/chapter
+  - bible/judges
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: judges
+bible_chapter: 14
+created: 2026-09-28
+modified: 2026-09-28
+description: "Judges 14, Revised Standard Version, Second Catholic Edition (Ignatius Bible)."
+---
+
+> [[judges-13-rsv2ce|← Previous]] | [[judges-00-rsv2ce|Judges]] | [[judges-15-rsv2ce|Next →]]
+
+# Judges 14 (RSV-2CE)
+
+*Also:* [[judges-14|NABRE]]
+
+**Samson’s Marriage at Timnah**
+
+1 Samson went down to Timnah, and at Timnah he saw one of the daughters of the Philis'tines. ^judges-14-1
+
+2 Then he came up, and told his father and mother, “I saw one of the daughters of the Philis'tines at Timnah; now get her for me as my wife.” ^judges-14-2
+
+3 But his father and mother said to him, “Is there not a woman among the daughters of your kinsmen, or among all our people, that you must go to take a wife from the uncircumcised Philis'tines?” But Samson said to his father, “Get her for me; for she pleases me well.” ^judges-14-3
+
+4 His father and mother did not know that it was from the LORD; for he was seeking an occasion against the Philis'tines. At that time the Philistines had dominion over Israel. ^judges-14-4
+
+5 Then Samson went down with his father and mother to Timnah, and he came to the vineyards of Timnah. And behold, a young lion roared against him; ^judges-14-5
+
+6 and the Spirit of the LORD came mightily upon him, and he tore the lion asunder as one tears a kid; and he had nothing in his hand. But he did not tell his father or his mother what he had done. ^judges-14-6
+
+7 Then he went down and talked with the woman; and she pleased Samson well. ^judges-14-7
+
+8 And after a while he returned to take her; and he turned aside to see the carcass of the lion, and behold, there was a swarm of bees in the body of the lion, and honey. ^judges-14-8
+
+9 He scraped it out into his hands, and went on, eating as he went; and he came to his father and mother, and gave some to them, and they ate. But he did not tell them that he had taken the honey from the carcass of the lion. ^judges-14-9
+
+10 And his father went down to the woman, and Samson made a feast there; for so the young men used to do. ^judges-14-10
+
+11 And when the people saw him, they brought thirty companions to be with him. ^judges-14-11
+
+12 And Samson said to them, “Let me now put a riddle to you; if you can tell me what it is, within the seven days of the feast, and find it out, then I will give you thirty linen garments and thirty festal garments; ^judges-14-12
+
+13 but if you cannot tell me what it is, then you shall give me thirty linen garments and thirty festal garments.” And they said to him, “Put your riddle, that we may hear it.” ^judges-14-13
+
+14 And he said to them, “Out of the eater came something to eat. Out of the strong came something sweet.” And they could not in three days tell what the riddle was. ^judges-14-14
+
+15 On the fourth day they said to Samson’s wife, “Entice your husband to tell us what the riddle is, lest we burn you and your father’s house with fire. Have you invited us here to impoverish us?” ^judges-14-15
+
+16 And Samson’s wife wept before him, and said, “You only hate me, you do not love me; you have put a riddle to my countrymen, and you have not told me what it is.” And he said to her, “Behold, I have not told my father nor my mother, and shall I tell you?” ^judges-14-16
+
+17 She wept before him the seven days that their feast lasted; and on the seventh day he told her, because she pressed him hard. Then she told the riddle to her countrymen. ^judges-14-17
+
+18 And the men of the city said to him on the seventh day before the sun went down, “What is sweeter than honey? What is stronger than a lion?” And he said to them, “If you had not plowed with my heifer, you would not have found out my riddle.” ^judges-14-18
+
+19 And the Spirit of the LORD came mightily upon him, and he went down to Ash'kelon and killed thirty men of the town, and took their spoil and gave the festal garments to those who had told the riddle. In hot anger he went back to his father’s house. ^judges-14-19
+
+20 And Samson’s wife was given to his companion, who had been his best man. ^judges-14-20
+
+---
+
+> [[judges-13-rsv2ce|← Previous]] | [[judges-00-rsv2ce|Judges]] | [[judges-15-rsv2ce|Next →]]
+
+![[bibliography#^biblio-rsv]]

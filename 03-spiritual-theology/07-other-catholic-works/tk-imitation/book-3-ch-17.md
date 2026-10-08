@@ -1,0 +1,43 @@
+---
+type: theologian-work
+title: "Book 3, Chapter 17. All Our Care Is to Be Placed in God – The Imitation of Christ"
+anchor:
+  - "[[tk-imitation]]"
+source: "Kempis, Thomas a. The Imitation of Christ. Translated by William Benham. London: P.F. Collier & Son, 1909. Reprint, Christian Classics Ethereal Library."
+author: "[[thomas-a-kempis|Thomas a Kempis]]"
+aliases:
+  - Chapter 17. All Our Care Is to Be Placed in God
+  - Chapter 17. All Our Care Is to Be Placed in God – The Imitation of Christ
+tags:
+  - author/thomas-a-kempis
+  - book/imitation-of-christ
+  - term/god
+  - type/book
+  - type/theologian-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-04-27
+modified: 2026-09-10
+description: Chapter 17. All Our Care Is to Be Placed in God
+---
+
+> [[book-3-ch-16|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-3-ch-18|Next →]]
+
+# Chapter 17. All Our Care Is to Be Placed in God
+
+The Voice of Christ MY CHILD, allow me to do what I will with you. I know what is best for you. You think as a man; you feel in many things as human affection persuades.
+
+The Disciple Lord, what You say is true. Your care for me is greater than all the care I can take of myself. For he who does not cast all his care upon You stands very unsafely. If only my will remain right and firm toward You, Lord, do with me whatever pleases You. For whatever You shall do with me can only be good.
+
+If You wish me to be in darkness, I shall bless You. And if You wish me to be in light, again I shall bless You. If You stoop down to comfort me, I shall bless You, and if You wish me to be afflicted, I shall bless You forever.
+
+The Voice of Christ My child, this is the disposition which you should have if you wish to walk with Me. You should be as ready to suffer as to enjoy. You should as willingly be destitute and poor as rich and satisfied.
+
+The Disciple O Lord, I shall suffer willingly for Your sake whatever You wish to send me. I am ready to accept from Your hand both good and evil alike, the sweet and the bitter together, sorrow with joy; and for all that happens to me I am grateful. Keep me from all sin and I will fear neither death nor hell. Do not cast me out forever nor blot me out of the Book of Life, and whatever tribulation befalls will not harm me.
+
+---
+
+> [[book-3-ch-16|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-3-ch-18|Next →]]
+
+![[bibliography#^biblio-imitation]]

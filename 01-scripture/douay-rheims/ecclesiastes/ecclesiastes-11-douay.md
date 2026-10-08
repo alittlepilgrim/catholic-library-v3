@@ -1,0 +1,58 @@
+---
+type: bible
+title: "Ecclesiastes 11 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Ecclesiastes 11 (Douay-Rheims)"
+  - ecclesiastes-11-douay
+tags:
+  - bible/chapter
+  - bible/ecclesiastes
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: ecclesiastes
+bible_chapter: 11
+created: 2026-09-28
+modified: 2026-09-28
+description: "Ecclesiastes 11, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[ecclesiastes-10-douay|← Previous]] | [[ecclesiastes-00-douay|TOC]] | [[ecclesiastes-12-douay|Next →]]
+
+# Ecclesiastes Chapter 11
+
+Exhortation to works of mercy, while we have time, to diligence in good, and to the remembrance of death and judgment.
+
+1 Cast thy bread upon the running waters: for after a long time thou shalt find it again. ^ecclesiastes-11-1-douay
+
+2 Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth. ^ecclesiastes-11-2-douay
+
+3 If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be. **If the tree fall, etc...** The state of the soul is unchangeable when once she comes to heaven or hell: and a soul that departs this life in the state of grace, shall never fall from grace: as on the other side, a soul that dies out of the state of grace, shall never come to it. But this does not exclude a place of temporal punishments for such souls as die in the state of grace: yet not so as to be entirely pure: and therefore they shall be saved, indeed, yet so as by fire ([[1-corinthians-03-douay|1 Corinthians 3:13-15]]). ^ecclesiastes-11-3-douay
+
+4 He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap. ^ecclesiastes-11-4-douay
+
+5 As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all. ^ecclesiastes-11-5-douay
+
+6 In the morning sow thy seed, and in the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better. ^ecclesiastes-11-6-douay
+
+7 The light is sweet, and it is delightful for the eyes to see the sun. ^ecclesiastes-11-7-douay
+
+8 If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity. ^ecclesiastes-11-8-douay
+
+9 Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment. ^ecclesiastes-11-9-douay
+
+10 Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain. ^ecclesiastes-11-10-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[ecclesiastes-10-douay|← Previous]] | [[ecclesiastes-00-douay|TOC]] | [[ecclesiastes-12-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

@@ -1,0 +1,78 @@
+---
+type: bible
+title: "Judges 14 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Judges 14 (Douay-Rheims)"
+  - judges-14-douay
+tags:
+  - bible/chapter
+  - bible/judges
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: judges
+bible_chapter: 14
+created: 2026-09-28
+modified: 2026-09-28
+description: "Judges 14, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[judges-13-douay|← Previous]] | [[judges-00-douay|TOC]] | [[judges-15-douay|Next →]]
+
+# Judges Chapter 14
+
+Samson desires a wife of the Philistines. He kills a lion: in whose mouth he afterwards finds honey. His marriage feast, and riddle, which is discovered by his wife. He kills, and strips thirty Philistines. His wife takes another man.
+
+1 Then Samson went down to Thamnatha, and seeing there a woman of the daughters of the Philistines, ^judges-14-1-douay
+
+2 He came up, and told his father and his mother, saying: I saw a woman in Thamnatha of the daughters of the Philistines: I beseech you, take her for me to wife. ^judges-14-2-douay
+
+3 And his father and mother said to him: Is there no woman among the daughters of thy brethren, or among all my people, that thou wilt take a wife of the Philistines, who are uncircumcised? And Samson said to his father: Take this woman for me; for she hath pleased my eyes. **Is there no woman among the daughters of thy brethren...** This shows his parents were at first against his marriage with a Gentile, it being prohibited, [[deuteronomy-07-douay|Deuteronomy 7:3]]; but afterwards they consented, knowing it to be by the dispensation of God; which otherwise would have been sinful in acting contrary to the law. ^judges-14-3-douay
+
+4 Now his parents knew not that the thing was done by the Lord, and that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel. ^judges-14-4-douay
+
+5 Then Samson went down with his father and mother to Thamnatha. And when they were come to the vineyards of the town, behold a young lion met him, raging and roaring. ^judges-14-5-douay
+
+6 And the Spirit of the Lord came upon Samson, and he tore the lion as he would have torn a kid in pieces, having nothing at all in his hand: and he would not tell this to his father and mother. ^judges-14-6-douay
+
+7 And he went down, and spoke to the woman that had pleased his eyes. ^judges-14-7-douay
+
+8 And after some days, returning to take her, he went aside to see the carcass of the lion, and behold there was a swarm of bees in the mouth of the lion, and a honey-comb. ^judges-14-8-douay
+
+9 And when he had taken it in his hands, he went on eating: and coming to his father and mother, he gave them of it, and they ate: but he would not tell them that he had taken the honey from the body of the lion. ^judges-14-9-douay
+
+10 So his father went down to the woman, and made a feast for his son Samson: for so the young men used to do. ^judges-14-10-douay
+
+11 And when the citizens of that place saw him, they brought him thirty companions to be with him. ^judges-14-11-douay
+
+12 And Samson said to them: I will propose to you a riddle, which if you declare unto me within the seven days of the feast, I will give you thirty shirts, and as many coats: ^judges-14-12-douay
+
+13 But if you shall not be able to declare it, you shall give me thirty shirts and the same number of coats. They answered him: Put forth the riddle, that we may hear it. ^judges-14-13-douay
+
+14 And he said to them: Out of the eater came forth meat, and out of the strong came forth sweetness. And they could not for three days expound the riddle. ^judges-14-14-douay
+
+15 And when the seventh day came, they said to the wife of Samson: Sooth thy husband, and persuade him to tell thee what the riddle meaneth. But if thou wilt not do it, we will burn thee, and thy father's house. Have you called us to the wedding on purpose to strip us? ^judges-14-15-douay
+
+16 So she wept before Samson and complained, saying: Thou hatest me, and dost not love me: therefore thou wilt not expound to me the riddle, which thou hast proposed to the sons of my people. But he answered: I would not tell it to my father and mother: and how can I tell it to thee? ^judges-14-16-douay
+
+17 So she wept before him the seven days of the feast: and, at length, on the seventh day, as she was troublesome to him, he expounded it. And she immediately told her countrymen. ^judges-14-17-douay
+
+18 And they, on the seventh day before the sun went down, said to him: What is sweeter than honey? and what is stronger than a lion? And he said to them: If you had not ploughed with my heifer, you had not found out my riddle. ^judges-14-18-douay
+
+19 And the Spirit of the Lord came upon him, and he went down to Ascalon, and slew there thirty men whose garments he took away, and gave to them that had declared the riddle. And being exceeding angry, he went up to his father's house: ^judges-14-19-douay
+
+20 But his wife took one of his friends and bridal companions for her husband. ^judges-14-20-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[judges-13-douay|← Previous]] | [[judges-00-douay|TOC]] | [[judges-15-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

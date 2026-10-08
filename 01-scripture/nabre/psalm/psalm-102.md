@@ -1,0 +1,206 @@
+---
+type: bible
+title: Psalm 102
+anchor: psalm-102
+url: "https://bible.usccb.org/bible/psalms/102"
+source: "Confraternity of Christian Doctrine. New American Bible, revised edition. Washington, DC: Confraternity of Christian Doctrine, 2010."
+aliases:
+  - Psalm 102
+  - psalm-102
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - graph/bible-ccc
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 102
+created: 2026-04-18
+modified: 2026-09-10
+description: "Psalms, Psalm 102"
+---
+
+> [[psalm-101|← Previous]] | [[psalm-00|TOC]] | [[psalm-103|Next →]]
+
+# Psalm 102
+
+## Prayer in Time of Distress
+
+1 The prayer of one afflicted and wasting away whose anguish is poured out before the LORD. ^psalm-102-1
+
+### I
+
+2 LORD, hear my prayer; ^psalm-102-2
+
+let my cry come to you.
+
+3 Do not hide your face from me ^psalm-102-3
+
+in the day of my distress.
+
+Turn your ear to me;
+
+when I call, answer me quickly.
+
+4 For my days vanish like smoke; ^psalm-102-4
+
+my bones burn away as in a furnace.
+
+5 My heart is withered, dried up like grass, ^psalm-102-5
+
+too wasted to eat my food.
+
+6 From my loud groaning ^psalm-102-6
+
+I become just skin and bones.
+
+7 I am like a desert owl, ^psalm-102-7
+
+like an owl among the ruins.
+
+8 I lie awake and moan, ^psalm-102-8
+
+like a lone sparrow on the roof.
+
+9 All day long my enemies taunt me; ^psalm-102-9
+
+in their rage, they make my name a curse.
+
+10 I eat ashes like bread, ^psalm-102-10
+
+mingle my drink with tears.
+
+11 Because of your furious wrath, ^psalm-102-11
+
+you lifted me up just to cast me down.
+
+12 My days are like a lengthening shadow; ^psalm-102-12
+
+I wither like the grass.
+
+### II
+
+13 But you, LORD, are enthroned forever; ^psalm-102-13
+
+your renown is for all generations.
+
+14 You will again show mercy to Zion; ^psalm-102-14
+
+now is the time for pity;
+
+the appointed time has come.
+
+15 Its stones are dear to your servants; ^psalm-102-15
+
+its dust moves them to pity.
+
+16 The nations shall fear your name, LORD, ^psalm-102-16
+
+all the kings of the earth, your glory,
+
+17 Once the LORD has rebuilt Zion ^psalm-102-17
+
+and appeared in glory,
+
+18 Heeding the plea of the lowly, ^psalm-102-18
+
+not scorning their prayer.
+
+19 Let this be written for the next generation, ^psalm-102-19
+
+for a people not yet born,
+
+that they may praise the LORD:
+
+20 “The LORD looked down from the holy heights, ^psalm-102-20
+
+viewed the earth from heaven,
+
+21 To attend to the groaning of the prisoners, ^psalm-102-21
+
+to release those doomed to die.”
+
+22 Then the LORD’s name will be declared on Zion, ^psalm-102-22
+
+his praise in Jerusalem,
+
+23 When peoples and kingdoms gather ^psalm-102-23
+
+to serve the LORD.
+
+### III
+
+24 He has shattered my strength in mid-course, ^psalm-102-24
+
+has cut short my days.
+
+25 I plead, O my God, ^psalm-102-25
+
+do not take me in the midst of my days.
+
+Your years last through all generations.
+
+26 Of old you laid the earth’s foundations; ^psalm-102-26
+
+the heavens are the work of your hands.
+
+27 They perish, but you remain; ^psalm-102-27
+
+they all wear out like a garment;
+
+Like clothing you change them and they are changed,
+
+28 but you are the same, your years have no end. ^psalm-102-28
+
+29 May the children of your servants live on; ^psalm-102-29
+
+may their descendants live in your presence.
+
+---
+
+\* (Psalm 102) A lament, one of the Penitential Psalms. The psalmist, experiencing psychological and bodily disintegration (Ps 102:4 – 12), cries out to God (Ps 102:1 – 3). In the Temple precincts where God has promised to be present, the psalmist recalls God’s venerable promises to save the poor (Ps 102:13 – 23). The final part (Ps 102:24 – 28) restates the original complaint and prayer, and emphasizes God’s eternity.
+
+\* (102:9) They make my name a curse: enemies use the psalmist’s name in phrases such as, “May you be as wretched as this person!”
+
+\* (102:20 – 23) Both Ps 102:20 – 21 and Ps 102:22 – 23 depend on Ps 102:19.
+
+\* (102:25) In the midst of my days: when the normal span of life is but half completed, cf. Is 38:10; Jer 17:11.
+
+---
+
+a. (102:3) Ps 69:18; 143:7.
+
+b. (102:4 – 6) Ps 38:7 – 9.
+
+c. (102:10) Ps 42:4; 80:6.
+
+d. (102:12) Ps 109:23; 144:4; Jb 8:9; 14:2; Eccl 6:12; [[wisdom-02#^wisdom-02-5|Wis 2:5]].
+
+e. (102:12) Ps 90:5 – 6.
+
+f. (102:13) Ps 55:20; 90:2; 93:2; 135:13; 145:13; Lam 5:19; Heb 1:12.
+
+g. (102:16) Is 59:19; 66:18.
+
+h. (102:19) [[psalm-22#^psalm-22-31|Ps 22:31 – 32]].
+
+i. (102:20) [[psalm-11#^psalm-11-4|Ps 11:4]]; 14:2.
+
+j. (102:21) Ps 79:11.
+
+k. (102:23) Is 60:3 – 4; Zec 2:15; 8:22.
+
+l. (102:25) Ps 39:5; 90:10; Jb 14:5.
+
+m. (102:26 – 28) Heb 1:10 – 12.
+
+n. (102:29) Ps 69:36 – 37.
+
+---
+
+> [[psalm-101|← Previous]] | [[psalm-00|TOC]] | [[psalm-103|Next →]]
+
+![[bibliography#^biblio-nabre]]

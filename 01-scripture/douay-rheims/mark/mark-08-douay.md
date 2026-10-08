@@ -1,0 +1,116 @@
+---
+type: bible
+title: "Mark 8 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "Mark 8 (Douay-Rheims)"
+  - mark-08-douay
+tags:
+  - bible/chapter
+  - bible/mark
+  - bible/new-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: mark
+bible_chapter: 8
+created: 2026-09-28
+modified: 2026-09-28
+description: "Mark 8, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[mark-07-douay|← Previous]] | [[mark-00-douay|TOC]] | [[mark-09-douay|Next →]]
+
+# Mark Chapter 8
+
+Christ feeds four thousand. He gives sight to a blind man. He foretells his passion.
+
+1 In those days again, when there was great multitude and they had nothing to eat; calling his disciples together, he saith to them: ^mark-08-1-douay
+
+2 I have compassion on the multitude, for behold they have now been with me three days and have nothing to eat. ^mark-08-2-douay
+
+3 And if I shall send them away fasting to their home, they will faint in the way: for some of them came from afar off. ^mark-08-3-douay
+
+4 And his disciples answered him: From whence can any one fill them here with bread in the wilderness? ^mark-08-4-douay
+
+5 And he asked them: How many loaves have ye? Who said: Seven. ^mark-08-5-douay
+
+6 And he commanded the people to sit down on the ground. And taking the seven loaves, giving thanks, he broke and gave to his disciples for to set before them. And they set them before the people. ^mark-08-6-douay
+
+7 And they had a few little fishes: and he blessed them and commanded them to be set before them. ^mark-08-7-douay
+
+8 And they did eat and were filled: and they took up that which was left of the fragments, seven baskets. ^mark-08-8-douay
+
+9 And they that had eaten were about four thousand. And he sent them away. ^mark-08-9-douay
+
+10 And immediately going up into a ship with his disciples, he came into the parts of Dalmanutha. ^mark-08-10-douay
+
+11 And the Pharisees came forth and began to question with him, asking him a sign from heaven, tempting him. ^mark-08-11-douay
+
+12 And sighing deeply in spirit, he saith: Why doth this generation seek a sign? Amen, I say to you, a sign shall not be given to this generation. ^mark-08-12-douay
+
+13 And leaving them, he went up again into the ship and passed to the other side of the water. ^mark-08-13-douay
+
+14 And they forgot to take bread: and they had but one loaf with them in the ship. ^mark-08-14-douay
+
+15 And he charged them saying: Take heed and beware of the leaven of the Pharisees and of the leaven of Herod. ^mark-08-15-douay
+
+16 And they reasoned among themselves, saying: Because we have no bread. ^mark-08-16-douay
+
+17 Which Jesus knowing, saith to them: Why do you reason, because you have no bread? Do you not yet know nor understand? Have you still your heart blinded? ^mark-08-17-douay
+
+18 Having eyes, see you not? And having ears, hear you not? Neither do you remember? ^mark-08-18-douay
+
+19 When I broke the five loves among five thousand, how many baskets full of fragments took you up? They say to him: Twelve. ^mark-08-19-douay
+
+20 When also the seven loaves among four thousand, how many baskets of fragments took you up? And they say to him: Seven. ^mark-08-20-douay
+
+21 And he said to them: How do you not yet understand? ^mark-08-21-douay
+
+22 And they came to Bethsaida: and they bring to him a blind man. And they besought him that he would touch him. ^mark-08-22-douay
+
+23 And taking the blind man by the hand, he led him out of the town. And spitting upon his eyes, laying his hands on him, he asked him if he saw any thing. ^mark-08-23-douay
+
+24 And looking up, he said: I see men, as it were trees, walking. ^mark-08-24-douay
+
+25 After that again he laid his hands upon his eyes: and he began to see and was restored, so that he saw all things clearly. ^mark-08-25-douay
+
+26 And he sent him into his house, saying: Go into thy house, and if thou enter into the town, tell nobody. ^mark-08-26-douay
+
+27 And Jesus went out, and his disciples into the towns of Caesarea Philippi. And in the way, he asked his disciples, saying to them: Whom do men say that I am? ^mark-08-27-douay
+
+28 Who answered him, saying: John the Baptist; but some Elias, and others as one of the prophets. ^mark-08-28-douay
+
+29 Then he saith to them: But whom do you say that I am? Peter answering said to him: Thou art the Christ. ^mark-08-29-douay
+
+30 And he strictly charged them that they should not tell any man of him. ^mark-08-30-douay
+
+31 And he began to teach them that the Son of man must suffer many things and be rejected by the ancients and by the high priests and the scribes: and be killed and after three days rise again. ^mark-08-31-douay
+
+32 And he spoke the word openly. And Peter taking him began to rebuke him. ^mark-08-32-douay
+
+33 Who turning about and seeing his disciples, threatened Peter, saying: Go behind me, Satan, because thou savourest not the things that are of God but that are of men. ^mark-08-33-douay
+
+34 And calling the multitude together with his disciples, he said to them: If any man will follow me, let him deny himself and take up his cross and follow me. ^mark-08-34-douay
+
+35 For whosoever will save his life shall lose it: and whosoever shall lose his life for my sake and the gospel shall save it. ^mark-08-35-douay
+
+36 For what shall it profit a man, if he gain the whole world and suffer the loss of his soul? ^mark-08-36-douay
+
+37 Or what shall a man give in exchange for his soul: ^mark-08-37-douay
+
+38 For he that shall be ashamed of me and of my words, in this adulterous and sinful generation: the Son of man also will be ashamed of him, when he shall come in the glory of his Father with the holy angels. ^mark-08-38-douay
+
+39 And he said to them: Amen I say to you that there are some of them that stand here who shall not taste death till they see the kingdom of God coming in power. ^mark-08-39-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[mark-07-douay|← Previous]] | [[mark-00-douay|TOC]] | [[mark-09-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

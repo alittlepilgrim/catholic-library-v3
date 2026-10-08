@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("propers")
+    order:
+      - file.name
+      - aliases
+      - celebration_rm_day
+      - celebration_rm_rank
+      - celebration_ocds_rank
+      - celebration_ocds_name
+    sort:
+      - property: celebration_rm_rank
+        direction: ASC
+    columnSize:
+      note.aliases: 287

@@ -1,0 +1,76 @@
+---
+type: bible
+title: "Nehemiah 5 (RSV-2CE)"
+source: "The Holy Bible, Revised Standard Version, Second Catholic Edition (The Ignatius Bible). San Francisco: Ignatius Press, 2006."
+aliases:
+  - "Nehemiah 5 (RSV-2CE)"
+  - "Nehemiah 5 – RSV-2CE"
+  - nehemiah-05-rsv2ce
+tags:
+  - bible/chapter
+  - bible/nehemiah
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: nehemiah
+bible_chapter: 5
+created: 2026-09-28
+modified: 2026-09-28
+description: "Nehemiah 5, Revised Standard Version, Second Catholic Edition (Ignatius Bible)."
+---
+
+> [[nehemiah-04-rsv2ce|← Previous]] | [[nehemiah-00-rsv2ce|Nehemiah]] | [[nehemiah-06-rsv2ce|Next →]]
+
+# Nehemiah 5 (RSV-2CE)
+
+*Also:* [[nehemiah-05|NABRE]]
+
+**Nehemiah Deals with Oppression**
+
+1 Now there arose a great outcry of the people and of their wives against their Jewish brethren. ^nehemiah-05-1
+
+2 For there were those who said, “With our sons and our daughters, we are many; let us get grain, that we may eat and keep alive.” ^nehemiah-05-2
+
+3 There were also those who said, “We are mortgaging our fields, our vineyards, and our houses to get grain because of the famine.” ^nehemiah-05-3
+
+4 And there were those who said, “We have borrowed money for the king’s tax upon our fields and our vineyards. ^nehemiah-05-4
+
+5 Now our flesh is as the flesh of our brethren, our children are as their children; yet we are forcing our sons and our daughters to be slaves, and some of our daughters have already been enslaved; but it is not in our power to help it, for other men have our fields and our vineyards.” ^nehemiah-05-5
+
+6 I was very angry when I heard their outcry and these words. ^nehemiah-05-6
+
+7 I took counsel with myself, and I brought charges against the nobles and the officials. I said to them, “You are exacting interest, each from his brother.” And I held a great assembly against them, ^nehemiah-05-7
+
+8 and said to them, “We, as far as we are able, have bought back our Jewish brethren who have been sold to the nations; but you even sell your brethren that they may be sold to us!” They were silent, and could not find a word to say. ^nehemiah-05-8
+
+9 So I said, “The thing that you are doing is not good. Ought you not to walk in the fear of our God to prevent the taunts of the nations our enemies? ^nehemiah-05-9
+
+10 Moreover I and my brethren and my servants are lending them money and grain. Let us leave off this interest. ^nehemiah-05-10
+
+11 Return to them this very day their fields, their vineyards, their olive orchards, and their houses, and the hundredth of money, grain, wine, and oil which you have been exacting of them.” ^nehemiah-05-11
+
+12 Then they said, “We will restore these and require nothing from them. We will do as you say.” And I called the priests, and took an oath of them to do as they had promised. ^nehemiah-05-12
+
+13 I also shook out my garment and said, “So may God shake out every man from his house and from his labor who does not perform this promise. So may he be shaken out and emptied.” And all the assembly said “Amen” and praised the LORD. And the people did as they had promised. ^nehemiah-05-13
+
+**The Generosity of Nehemiah**
+
+14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Ar-ta-xerx'es the king, twelve years, neither I nor my brethren ate the food allowance of the governor. ^nehemiah-05-14
+
+15 The former governors who were before me laid heavy burdens upon the people, and took from them food and wine, besides forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God. ^nehemiah-05-15
+
+16 I also held to the work on this wall, and acquired no land; and all my servants were gathered there for the work. ^nehemiah-05-16
+
+17 Moreover there were at my table a hundred and fifty men, Jews and officials, besides those who came to us from the nations which were about us. ^nehemiah-05-17
+
+18 Now that which was prepared for one day was one ox and six choice sheep; fowls likewise were prepared for me, and every ten days skins of wine in abundance; yet with all this I did not demand the food allowance of the governor, because the servitude was heavy upon this people. ^nehemiah-05-18
+
+19 Remember for my good, O my God, all that I have done for this people. ^nehemiah-05-19
+
+---
+
+> [[nehemiah-04-rsv2ce|← Previous]] | [[nehemiah-00-rsv2ce|Nehemiah]] | [[nehemiah-06-rsv2ce|Next →]]
+
+![[bibliography#^biblio-rsv]]

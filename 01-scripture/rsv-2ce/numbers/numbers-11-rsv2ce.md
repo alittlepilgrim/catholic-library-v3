@@ -1,0 +1,116 @@
+---
+type: bible
+title: "Numbers 11 (RSV-2CE)"
+source: "The Holy Bible, Revised Standard Version, Second Catholic Edition (The Ignatius Bible). San Francisco: Ignatius Press, 2006."
+aliases:
+  - "Numbers 11 (RSV-2CE)"
+  - "Numbers 11 – RSV-2CE"
+  - numbers-11-rsv2ce
+tags:
+  - bible/chapter
+  - bible/numbers
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: numbers
+bible_chapter: 11
+created: 2026-09-28
+modified: 2026-09-28
+description: "Numbers 11, Revised Standard Version, Second Catholic Edition (Ignatius Bible)."
+---
+
+> [[numbers-10-rsv2ce|← Previous]] | [[numbers-00-rsv2ce|Numbers]] | [[numbers-12-rsv2ce|Next →]]
+
+# Numbers 11 (RSV-2CE)
+
+*Also:* [[numbers-11|NABRE]]
+
+**Complaining in the Desert**
+
+1 And the people complained in the hearing of the LORD about their misfortunes; and when the LORD heard it, his anger was kindled, and the fire of the LORD burned among them, and consumed some outlying parts of the camp. ^numbers-11-1
+
+2 Then the people cried to Moses; and Moses prayed to the LORD, and the fire abated. ^numbers-11-2
+
+3 So the name of that place was called Tab'erah, because the fire of the LORD burned among them. ^numbers-11-3
+
+4 Now the rabble that was among them had a strong craving; and the people of Israel also wept again, and said, “O that we had meat to eat! ^numbers-11-4
+
+5 We remember the fish we ate in Egypt for nothing, the cucumbers, the melons, the leeks, the onions, and the garlic; ^numbers-11-5
+
+6 but now our strength is dried up, and there is nothing at all but this manna to look at.” ^numbers-11-6
+
+7 Now the manna was like coriander seed, and its appearance like that of gum resin. ^numbers-11-7
+
+8 The people went about and gathered it, and ground it in mills or beat it in mortars, and boiled it in pots, and made cakes of it; and the taste of it was like the taste of cakes baked with oil. ^numbers-11-8
+
+9 When the dew fell upon the camp in the night, the manna fell with it. ^numbers-11-9
+
+10 Moses heard the people weeping throughout their families, every man at the door of his tent; and the anger of the LORD blazed hotly, and Moses was displeased. ^numbers-11-10
+
+11 Moses said to the LORD, “Why have you dealt ill with your servant? And why have I not found favor in your sight, that you lay the burden of all this people upon me? ^numbers-11-11
+
+12 Did I conceive all this people? Did I bring them forth, that you should say to me, ‘Carry them in your bosom, as a nurse carries the sucking child,’ to the land which you swore to give their fathers? ^numbers-11-12
+
+13 Where am I to get meat to give to all this people? For they weep before me and say, ‘Give us meat, that we may eat.’ ^numbers-11-13
+
+14 I am not able to carry all this people alone, the burden is too heavy for me. ^numbers-11-14
+
+15 If you will deal thus with me, kill me at once, if I find favor in your sight, that I may not see my wretchedness.” ^numbers-11-15
+
+**The Seventy Elders**
+
+16 And the LORD said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them; and bring them to the tent of meeting, and let them take their stand there with you. ^numbers-11-16
+
+17 And I will come down and talk with you there; and I will take some of the spirit which is upon you and put it upon them; and they shall bear the burden of the people with you, that you may not bear it yourself alone. ^numbers-11-17
+
+18 And say to the people, ‘Consecrate yourselves for tomorrow, and you shall eat meat; for you have wept in the hearing of the LORD, saying, “Who will give us meat to eat? For it was well with us in Egypt.” Therefore the LORD will give you meat, and you shall eat. ^numbers-11-18
+
+19 You shall not eat one day, or two days, or five days, or ten days, or twenty days, ^numbers-11-19
+
+20 but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the LORD who is among you, and have wept before him, saying, “Why did we come forth out of Egypt?” ’ ” ^numbers-11-20
+
+21 But Moses said, “The people among whom I am number six hundred thousand on foot; and you have said, ‘I will give them meat, that they may eat a whole month!’ ^numbers-11-21
+
+22 Shall flocks and herds be slaughtered for them, to satisfy them? Or shall all the fish of the sea be gathered together for them, to satisfy them?” ^numbers-11-22
+
+23 And the LORD said to Moses, “Is the LORD’s hand shortened? Now you shall see whether my word will come true for you or not.” ^numbers-11-23
+
+24 So Moses went out and told the people the words of the LORD; and he gathered seventy men of the elders of the people, and placed them round about the tent. ^numbers-11-24
+
+25 Then the LORD came down in the cloud and spoke to him, and took some of the spirit that was upon him and put it upon the seventy elders; and when the spirit rested upon them, they prophesied. But they did so no more. ^numbers-11-25
+
+26 Now two men remained in the camp, one named Eldad, and the other named Medad, and the spirit rested upon them; they were among those registered, but they had not gone out to the tent, and so they prophesied in the camp. ^numbers-11-26
+
+27 And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp.” ^numbers-11-27
+
+28 And Joshua the son of Nun, the minister of Moses, one of his chosen men, said, “My lord Moses, forbid them.” ^numbers-11-28
+
+29 But Moses said to him, “Are you jealous for my sake? Would that all the LORD’s people were prophets, that the LORD would put his spirit upon them!” ^numbers-11-29
+
+30 And Moses and the elders of Israel returned to the camp. ^numbers-11-30
+
+**The Quails**
+
+31 And there went forth a wind from the LORD, and it brought quails from the sea, and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, round about the camp, and about two cubits above the face of the earth. ^numbers-11-31
+
+32 And the people rose all that day, and all night, and all the next day, and gathered the quails; he who gathered least gathered ten homers; and they spread them out for themselves all around the camp. ^numbers-11-32
+
+33 While the meat was yet between their teeth, before it was consumed, the anger of the LORD was kindled against the people, and the LORD struck the people with a very great plague. ^numbers-11-33
+
+34 Therefore the name of that place was called Kib'roth-hatta'avah, because there they buried the people who had the craving. ^numbers-11-34
+
+35 From Kib'roth-hatta'avah the people journeyed to Haze'roth; and they remained at Hazeroth. ^numbers-11-35
+
+---
+
+## Doctrinal Notes (Ignatius Bible)
+
+\* (11:16–30) The account of the election of the seventy elders emphasizes the charismatic or prophetic basis of authority in the community. ^numbers-11-dn-1
+
+---
+
+> [[numbers-10-rsv2ce|← Previous]] | [[numbers-00-rsv2ce|Numbers]] | [[numbers-12-rsv2ce|Next →]]
+
+![[bibliography#^biblio-rsv]]

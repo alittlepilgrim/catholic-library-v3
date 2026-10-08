@@ -1,0 +1,38 @@
+---
+type: saint-work
+title: Chapter XIII. How Lauds Are to Be Said on Week Days – The Holy Rule of St. Benedict
+anchor:
+  - "[[bn-rule-of-st-benedict]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[benedict-of-nursia-saint|Benedict of Nursia]]"
+aliases:
+  - Chapter XIII. How Lauds Are to Be Said on Week Days
+  - Chapter XIII. How Lauds Are to Be Said on Week Days – The Holy Rule of St. Benedict
+tags:
+  - author/benedict-of-nursia
+  - book/rule-of-st-benedict
+  - type/book
+  - type/saint-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter XIII. How Lauds Are to Be Said on Week Days
+---
+
+> [[bn-rsb-12|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-14|Next →]]
+
+# Chapter XIII. How Lauds Are to Be Said on Week Days
+
+On week days let Lauds be celebrated in the following manner, to wit: Let the 66th psalm be said without an antiphon, drawing it out a little as on Sunday, that all may arriver for the 50th, which is to be said with an antiphon. After this let two other psalms be said according to custom; namely, the 5th and the 35th on the second day, the 42d and the 56th on the third day, the 63rd and the 64th on the fourth day, the 87th and the 89th on the fifth day, the 75th and the 91st on the sixth day, and on Saturday the 142d and the canticle of Deuteronomy, which should be divided into two Glorias. On the other days, however, let the canticle from the Prophets, each for its proper day, be said as the Roman Church singeth it. After these let the psalms of praise follow; then one lesson from the Apostle, to be said from memory, the responsory, the Ambrosian hymn, the verse, the canticle from the Gospel, the litany, and it is finished.
+
+Owing to the scandals which are wont to spring up, the morning and the evening office should, plainly, never end unless the Lord's Prayer is said in the hearing of all by the Superior in its place at the end; so that in virtue of the promise which the brethren make when they say, "Forgive us as we forgive" (Mt 6:12), they may cleanse themselves of failings of this kind.
+
+At the other hours which are to be said, however, let only the last part of this prayer be said aloud, so that all may answer, "But deliver us from evil" (Mt 6:13).
+
+---
+
+> [[bn-rsb-12|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-14|Next →]]
+
+![[bibliography#^biblio-rsb]]

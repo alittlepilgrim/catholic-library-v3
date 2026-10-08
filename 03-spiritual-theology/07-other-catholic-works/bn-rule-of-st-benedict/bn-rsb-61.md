@@ -1,0 +1,38 @@
+---
+type: saint-work
+title: Chapter LXI. How Stranger Monks Are to Be Received – The Holy Rule of St. Benedict
+anchor:
+  - "[[bn-rule-of-st-benedict]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[benedict-of-nursia-saint|Benedict of Nursia]]"
+aliases:
+  - Chapter Lxi. How Stranger Monks Are to Be Received
+  - Chapter LXI. How Stranger Monks Are to Be Received – The Holy Rule of St. Benedict
+tags:
+  - author/benedict-of-nursia
+  - book/rule-of-st-benedict
+  - type/book
+  - type/saint-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter LXI. How Stranger Monks Are to Be Received
+---
+
+> [[bn-rsb-60|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-62|Next →]]
+
+# Chapter LXI. How Stranger Monks Are to Be Received
+
+If a monk who is a stranger, arriveth from a distant place and desireth to live in the monastery as a guest, and is satisfied with the customs he findeth there, and doth not trouble the monastery with superfluous wants, but is satisfied with what he findeth, let him be received for as long a time as he desireth. Still, if he should reasonably, with humility and charity, censure or point out anything, let the Abbot consider discreetly whether the Lord did not perhaps send him for that very purpose. If later on he desireth to declare his stability let his wish not be denied, and especially since his life could be known during his stay as a guest.
+
+But if during the time that he was a guest he was found to be troublesome and disorderly, he must not only not associate with the monastic body but should even be politely requested to leave, that others may not be infected by his evil life. But if he hath not been such as deserveth to be cast forth, he should not only be admitted to join the brotherhood, if he apply, but he should even be urged to remain, that others may be taught by his example, because we serve one Lord and fight under one King everywhere. If the Abbot recognize him to be such a one he may also place him in a somewhat higher rank.
+
+The Abbot may, however, place not only a monk, but also those of the aforesaid grades of priests and clerics, in a higher place than that of their entry, if he seeth their lives to be such as to deserve it. But let the Abbot take care never to admit a monk of any other known monastery to residence, without the consent of his Abbot or commendatory letters, because it is written: "What thou wilt not have done to thyself, do not to another" (Tb 4:16).
+
+---
+
+> [[bn-rsb-60|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-62|Next →]]
+
+![[bibliography#^biblio-rsb]]

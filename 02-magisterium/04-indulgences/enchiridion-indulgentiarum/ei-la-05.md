@@ -1,0 +1,50 @@
+---
+type: magisterium
+title: Quattuor Concessiones Generaliores – Enchiridion Indulgentiarum
+anchor: ei-la
+url: "https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html"
+source: "Catholic Church. *Enchiridion Indulgentiarum*. 4th ed. Vatican City: Libreria Editrice Vaticana, 1999."
+author: Catholic Church
+aliases:
+  - Quattuor Concessiones Generaliores
+tags:
+  - author/catholic-church
+  - type/magisterium
+layer: 1
+authority: magisterial
+scope: universal
+part_of: "[[work-enchiridion-indulgentiarum]]"
+created: 2026-04-18
+modified: 2026-09-10
+description: "Quattuor Concessiones Generaliores – Enchiridion Indulgentiarum (editio quarta, 1999)"
+---
+
+> ← [[ei-la-04|Normae de Indulgentiis]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[ei-la-06|Concessiones Generales]] →
+
+# Quattuor Concessiones Generaliores
+
+*Proœmium*
+
+1\. Proponuntur imprimis quattuor concessiones indulgentiarum, quibus christifidelis commonetur ut actiones, quibus vita quotidiana veluti intexitur, christiano spiritu informet,<sup>1</sup> et in suo vitae ordine ad perfectionem caritatis tendat.<sup>2</sup>
+
+2\. Quattuor concessiones sunt revera generaliores et earum singulae plura eiusdem generis opera complectuntur. Tamen non omnia huiusmodi opera indulgentiis ditantur, sed ea tantum quae peculiari modo et animo peraguntur.
+
+Ita prima concessione, cuius haec sunt verba: « Conceditur indulgentia partialis christifideli qui, in officiis suis gerendis et vitae aerumnis tolerandis, animum ad Deum humili fiducia erigit, addita, etiam tantum mente, pia aliqua invocatione », indulgentia ditantur ii tantum actus quibus christifidelis, dum officia sua peragit et vitae aerumnas sustinet, mentem ad Deum uti proponitur elevat. Hi peculiares actus, ob humanam infirmitatem, non sunt frequentes.
+
+Quod si quis tam diligens et fervens sit ut ad plura diei momenta huiusmodi actus extendat, tunc ipse iuste meretur, praeter gratiae incrementum, ampliorem poenae remissionem et, pro sua caritate, animabus in purgatorio detentis abundantius subvenire potest.
+
+Simili ratione sentiendum est de tribus ceteris concessionibus.
+
+3\. Quia quattuor concessiones, ut patet, cum Evangelio et cum doctrina Ecclesiae, a Concilio Vaticano II luculenter proposita, apprime congruunt, in fidelium commodum loci de Sacra Scriptura et de actis eiusdem Concilii deprompti ad singulas concessiones infra apponuntur.
+
+---
+
+(1) Cf. *1 Cor* 10,31; *Col* 3,17; AA 2-4, 13.
+
+(2) Cf. LG 39, 40-42.
+
+---
+
+> ← [[ei-la-04|Normae de Indulgentiis]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[ei-la-06|Concessiones Generales]] →
+
+![[bibliography#^biblio-ei]]

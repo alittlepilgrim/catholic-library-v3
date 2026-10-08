@@ -1,0 +1,152 @@
+---
+type: bible
+title: Psalm 10
+anchor: psalm-10
+url: "https://bible.usccb.org/bible/psalms/10"
+source: "Confraternity of Christian Doctrine. New American Bible, revised edition. Washington, DC: Confraternity of Christian Doctrine, 2010."
+aliases:
+  - Psalm 10
+  - psalm-10
+tags:
+  - bible/chapter
+  - bible/old-testament
+  - bible/psalms
+  - graph/bible-ccc
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: psalm
+bible_chapter: 10
+created: 2026-04-18
+modified: 2026-09-10
+description: "Psalms, Psalm 10"
+---
+
+> [[psalm-09|← Previous]] | [[psalm-00|TOC]] | [[psalm-11|Next →]]
+
+# Psalm 10
+
+## I
+
+1 Why, LORD, do you stand afar ^psalm-10-1
+
+and pay no heed in times of trouble?
+
+2 Arrogant scoundrels pursue the poor; ^psalm-10-2
+
+they trap them by their cunning schemes.
+
+## II
+
+3 The wicked even boast of their greed; ^psalm-10-3
+
+these robbers curse and scorn the LORD.
+
+4 In their insolence the wicked boast: ^psalm-10-4
+
+“God does not care; there is no God.”
+
+5 Yet their affairs always succeed; ^psalm-10-5
+
+they ignore your judgment on high;
+
+they sneer at all who oppose them.
+
+6 They say in their hearts, “We will never fall; ^psalm-10-6
+
+never will we see misfortune.”
+
+7 Their mouths are full of oaths, violence, and lies; ^psalm-10-7
+
+discord and evil are under their tongues.
+
+8 They wait in ambush near towns; ^psalm-10-8
+
+their eyes watch for the helpless
+
+to murder the innocent in secret.
+
+9 They lurk in ambush like lions in a thicket, ^psalm-10-9
+
+hide there to trap the poor,
+
+snare them and close the net.
+
+10 The helpless are crushed, laid low; ^psalm-10-10
+
+they fall into the power of the wicked,
+
+11 Who say in their hearts, “God has forgotten, ^psalm-10-11
+
+shows no concern, never bothers to look.”
+
+## III
+
+12 Rise up, LORD! God, lift up your hand! ^psalm-10-12
+
+Do not forget the poor!
+
+13 Why should the wicked scorn God, ^psalm-10-13
+
+say in their hearts, “God does not care”?
+
+14 But you do see; ^psalm-10-14
+
+you take note of misery and sorrow;
+
+you take the matter in hand.
+
+To you the helpless can entrust their cause;
+
+you are the defender of orphans.
+
+15 Break the arm of the wicked and depraved; ^psalm-10-15
+
+make them account for their crimes;
+
+let none of them survive.
+
+## IV
+
+16 The LORD is king forever; ^psalm-10-16
+
+the nations have vanished from his land.
+
+17 You listen, LORD, to the needs of the poor; ^psalm-10-17
+
+you strengthen their heart and incline your ear.
+
+18 You win justice for the orphaned and oppressed; ^psalm-10-18
+
+no one on earth will cause terror again.
+
+---
+
+a. (10:2) Is 32:7.
+
+b. (10:3) Ps 36:2.
+
+c. (10:4) [[psalm-14#^psalm-14-1|Ps 14:1]]; Jb 22:13; Is 29:15; Jer 5:12; Zep 1:12.
+
+d. (10:7) Is 32:7; [[romans-03#^romans-03-14|Rom 3:14]].
+
+e. (10:8) [[psalm-11#^psalm-11-2|Ps 11:2]]; Jb 24:14.
+
+f. (10:9) [[psalm-17#^psalm-17-12|Ps 17:12]]; Prv 1:11; Jer 5:26.
+
+g. (10:11) Ps 44:25; 64:6; 73:11; 94:7; [[ezekiel-09#^ezekiel-09-9|Ez 9:9]].
+
+h. (10:14) Ps 31:8; 56:9; [[2-kings-20#^2-kings-20-5|2 Kgs 20:5]]; Is 25:8; [[revelation-07#^revelation-07-17|Rv 7:17]].
+
+i. (10:14) [[exodus-22#^exodus-22-21|Ex 22:21 – 22]].
+
+j. (10:16) Ps 145:13; Jer 10:10.
+
+k. (10:18) Dt 10:18.
+
+---
+
+> [[psalm-09|← Previous]] | [[psalm-00|TOC]] | [[psalm-11|Next →]]
+
+![[bibliography#^biblio-nabre]]

@@ -1,0 +1,48 @@
+---
+type: theologian-work
+title: "Book 4, Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the – The Imitation of Christ"
+anchor:
+  - "[[tk-imitation]]"
+source: "Kempis, Thomas a. The Imitation of Christ. Translated by William Benham. London: P.F. Collier & Son, 1909. Reprint, Christian Classics Ethereal Library."
+author: "[[thomas-a-kempis|Thomas a Kempis]]"
+aliases:
+  - Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the
+  - Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the – The Imitation of Christ
+tags:
+  - author/thomas-a-kempis
+  - book/imitation-of-christ
+  - term/christ
+  - term/soul
+  - type/book
+  - type/theologian-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the
+---
+
+> [[book-4-ch-12|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-4-ch-14|Next →]]
+
+# Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the
+
+Sacrament The Disciple LET it be granted me to find You alone, O Christ, to open to You my whole heart, to enjoy You as my soul desires, to be disturbed by no one, to be moved and troubled by no creature, that You may speak to me and I to You alone, as a lover speaks to his loved one, and friend converses with friend.
+
+I pray for this, I desire this, that I may be completely united to You and may withdraw my heart from all created things, learning to relish the celestial and the eternal through Holy Communion and the frequent celebration of Mass.
+
+Ah Lord God, when shall I be completely united to You and absorbed by You, with self utterly forgotten? You in me and I in You? Grant that we may remain so together. You in truth are my Beloved, chosen from thousands, in Whom my soul is happy to dwell all the days of her life. You are in truth my pledge of peace, in Whom is the greatest peace and true rest, without Whom there is toil and sorrow and infinite misery.
+
+You truly are the hidden God. Your counsel is not with the wicked, and Your conversation is rather with the humble and the simple.
+
+O how kind is Your spirit, Lord, Who in order to show Your sweetness toward Your children, deign to feed them with the sweetest of bread, bread come down from heaven! Surely there is no other people so fortunate as to have their god near them, as You, our God, are present everywhere to the faithful, to whom You give Yourself to be eaten and enjoyed for their daily solace and the raising of their hearts to heaven.
+
+Indeed, what other nation is so renowned as the Christian peoples? What creature under heaven is so favored as the devout soul to whom God comes, to feed her with His glorious Flesh? O unspeakable grace! O wonderful condescension! O love beyond measure, singularly bestowed upon man!
+
+What return shall I make to the Lord for this love, this grace so boundless? There is nothing I can give more pleasing than to offer my heart completely to my God, uniting it closely with His. Then shall all my inner self be glad when my soul is perfectly united with God. Then will He say to me: "If you will be with Me, I will be with you." And I will answer Him: "Deign, O Lord, to remain with me. I will gladly be with You. This is my one desire, that my heart may be united with You."
+
+---
+
+> [[book-4-ch-12|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-4-ch-14|Next →]]
+
+![[bibliography#^biblio-imitation]]

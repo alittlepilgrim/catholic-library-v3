@@ -1,0 +1,46 @@
+---
+type: theologian-work
+title: "Book 3, Chapter 37. Pure and Entire Resignation of Self to Obtain Freedom of Heart – The Imitation of Christ"
+anchor:
+  - "[[tk-imitation]]"
+source: "Kempis, Thomas a. The Imitation of Christ. Translated by William Benham. London: P.F. Collier & Son, 1909. Reprint, Christian Classics Ethereal Library."
+author: "[[thomas-a-kempis|Thomas a Kempis]]"
+aliases:
+  - Chapter 37. Pure and Entire Resignation of Self to Obtain Freedom of Heart
+  - Chapter 37. Pure and Entire Resignation of Self to Obtain Freedom of Heart – The Imitation of Christ
+tags:
+  - author/thomas-a-kempis
+  - book/imitation-of-christ
+  - term/freedom
+  - term/resignation
+  - type/book
+  - type/theologian-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-04-27
+modified: 2026-09-10
+description: Chapter 37. Pure and Entire Resignation of Self to Obtain Freedom of Heart
+---
+
+> [[book-3-ch-36|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-3-ch-38|Next →]]
+
+# Chapter 37. Pure and Entire Resignation of Self to Obtain Freedom of Heart
+
+The Voice of Christ MY CHILD, renounce self and you shall find Me. Give up your own self-will, your possessions, and you shall always gain. For once you resign yourself irrevocably, greater grace will be given you.
+
+The Disciple How often, Lord, shall I resign myself? And in what shall I forsake myself?
+
+The Voice of Christ Always, at every hour, in small matters as well as great--I except nothing. In all things I wish you to be stripped of self. How otherwise can you be mine or I yours unless you be despoiled of your own will both inwardly and outwardly? The sooner you do this the better it will be for you, and the more fully and sincerely you do it the more you will please Me and the greater gain you will merit.
+
+Some there are who resign themselves, but with certain reservation; they do not trust fully in God and therefore they try to provide for themselves. Others, again, at first offer all, but afterward are assailed by temptation and return to what they have renounced, thereby making no progress in virtue. These will not reach the true liberty of a pure heart nor the grace of happy friendship with Me unless they first make a full resignation and a daily sacrifice of themselves. Without this no fruitful union lasts nor will last.
+
+I have said to you very often, and now I say again: forsake yourself, renounce yourself and you shall enjoy great inward peace. Give all for all. Ask nothing, demand nothing in return. Trust purely and without hesitation in Me, and you shall possess Me. You will be free of heart and darkness will not overwhelm you.
+
+Strive for this, pray for this, desire this--to be stripped of all selfishness and naked to follow the naked Jesus, to die to self and live forever for Me. Then all vain imaginations, all wicked disturbances and superfluous cares will vanish. Then also immoderate fear will leave you and inordinate love will die.
+
+---
+
+> [[book-3-ch-36|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-3-ch-38|Next →]]
+
+![[bibliography#^biblio-imitation]]

@@ -1,0 +1,42 @@
+---
+type: saint-work
+title: Chapter I. Of the Kinds or the Life of Monks – The Holy Rule of St. Benedict
+anchor:
+  - "[[bn-rule-of-st-benedict]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[benedict-of-nursia-saint|Benedict of Nursia]]"
+aliases:
+  - Chapter I. Of the Kinds or the Life of Monks
+  - Chapter I. Of the Kinds or the Life of Monks – The Holy Rule of St. Benedict
+tags:
+  - author/benedict-of-nursia
+  - book/rule-of-st-benedict
+  - type/book
+  - type/saint-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter I. Of the Kinds or the Life of Monks
+---
+
+> [[bn-rsb-00|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-02|Next →]]
+
+# Chapter I. Of the Kinds or the Life of Monks
+
+It is well known that there are four kinds of monks. The first kind is that of Cenobites, that is, the monastic, who live under a rule and an Abbot.
+
+The second kind is that of Anchorites, or Hermits, that is, of those who, no longer in the first fervor of their conversion, but taught by long monastic practice and the help of many brethren, have already learned to fight against the devil; and going forth from the rank of their brethren well trained for single combat in the desert, they are able, with the help of God, to cope single-handed without the help of others, against the vices of the flesh and evil thoughts.
+
+But a third and most vile class of monks is that of Sarabaites, who have been tried by no rule under the hand of a master, as gold is tried in the fire (cf Prov 27:21); but, soft as lead, and still keeping faith with the world by their works, they are known to belie God by their tonsure. Living in two's and three's, or even singly, without a shepherd, enclosed, not in the Lord's sheepfold, but in their own, the gratification of their desires is law unto them; because what they choose to do they call holy, but what they dislike they hold to be unlawful.
+
+But the fourth class of monks is that called Landlopers, who keep going their whole life long from one province to another, staying three or four days at a time in different cells as guests. Always roving and never settled, they indulge their passions and the cravings of their appetite, and are in every way worse than the Sarabaites. It is better to pass all these over in silence than to speak of their most wretched life.
+
+Therefore, passing these over, let us go on with the help of God to lay down a rule for that most valiant kind of monks, the Cenobites.
+
+---
+
+> [[bn-rsb-00|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-02|Next →]]
+
+![[bibliography#^biblio-rsb]]

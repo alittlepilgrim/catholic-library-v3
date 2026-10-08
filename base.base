@@ -1,0 +1,159 @@
+filters:
+  and:
+    - file.ext == "md"
+    - '!file.folder.contains("admin")'
+    - '!file.folder.contains("assets")'
+formulas:
+  days_since_modified: (now() - file.mtime).days.round(0)
+  content_area: file.folder.split("/")[0]
+properties:
+  type:
+    displayName: Type
+  layer:
+    displayName: Layer
+  authority:
+    displayName: Authority
+  scope:
+    displayName: Scope
+  formula.days_since_modified:
+    displayName: Days Stale
+  formula.content_area:
+    displayName: Area
+views:
+  - type: table
+    name: All Notes
+    order:
+      - file.name
+      - type
+      - formula.content_area
+      - layer
+      - authority
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Type
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - title
+      - layer
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Recent
+    order:
+      - file.name
+      - type
+      - formula.days_since_modified
+      - formula.content_area
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 50
+  - type: table
+    name: By Authority
+    groupBy:
+      property: authority
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - type
+      - authority
+      - scope
+  - type: table
+    name: OCDS Formation
+    filters:
+      or:
+        - file.folder.contains("04-formation")
+        - file.folder.contains("formation-handbook")
+        - file.folder.contains("monthly-ocds-study")
+        - file.folder.contains("semi-province-texts")
+        - file.folder.contains("tcj-soas-ics")
+        - file.folder.contains("02-john-of-the-cross")
+        - type == "formation"
+        - type == "legislation"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - type
+      - layer
+      - file.folder
+      - formula.days_since_modified
+  - type: table
+    name: Lists
+    filters:
+      or:
+        - type == "toc"
+        - type == "moc"
+        - file.folder.containsAny("09-lists")
+    groupBy:
+      property: type
+      direction: DESC
+    order:
+      - file.name
+      - title
+      - type
+      - formula.content_area
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Terms
+    filters:
+      and:
+        - type == "term"
+    order:
+      - file.name
+      - title
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Reference Library
+    filters:
+      or:
+        - type == "doctor-work"
+        - type == "theologian-work"
+        - type == "reference-work"
+        - type == "saint-work"
+        - type == "magisterium"
+        - type == "catechism"
+        - type == "bible"
+        - type == "formation"
+        - type == "legislation"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - type
+      - authority
+      - formula.content_area
+    columnSize:
+      file.name: 174
+  - type: table
+    name: By Layer
+    groupBy:
+      property: layer
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - type
+      - layer
+      - authority
+      - scope
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,90 @@
+---
+type: bible
+title: "2 Samuel 20 (Douay-Rheims)"
+source: "Douay-Rheims Bible. Old Testament Douay 1609, New Testament Rheims 1582, revised by Richard Challoner 1749-1752. Text from New Advent."
+aliases:
+  - "2 Samuel 20 (Douay-Rheims)"
+  - 2-samuel-20-douay
+tags:
+  - bible/chapter
+  - bible/2-samuel
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: 2-samuel
+bible_chapter: 20
+created: 2026-09-28
+modified: 2026-09-28
+description: "2 Samuel 20, Douay-Rheims Bible (Challoner revision)."
+---
+
+> [[2-samuel-19-douay|← Previous]] | [[2-samuel-00-douay|TOC]] | [[2-samuel-21-douay|Next →]]
+
+# 2 Samuel Chapter 20
+
+Seba's rebellion. Amasa is slain by Joab. Abela is besieged, but upon the citizens casting over the wall the head of Seba, Joab departs with all his army.
+
+1 And there happened to be there a man of Belial, whose name was Seba, the son of Bochri, a man of Jemini: and he sounded the trumpet, and said: We have no part in David, nor inheritance in the son of Isai: return to thy dwellings, O Israel. ^2-samuel-20-1-douay
+
+2 And all Israel departed from David, and followed Seba the son of Bochri: but the men of Juda stuck to their king from the Jordan unto Jerusalem. ^2-samuel-20-2-douay
+
+3 And when the king was come into his house at Jerusalem, he took the ten women his concubines, whom he had left to keep the house, and put them inward, allowing them provisions: and he went not in unto them, but they were shut up unto the day of their death living in widowhood. ^2-samuel-20-3-douay
+
+4 And the king said to Amasa: Assemble to me all the men of Juda against the third day, and be thou here present. ^2-samuel-20-4-douay
+
+5 So Amasa went to assemble the men of Juda, but he tarried beyond the set time which the king had appointed him. ^2-samuel-20-5-douay
+
+6 And David said to Abisai: Now will Seba the son of Bochri do us more harm than did Absalom: take thou therefore the servants of thy lord, and pursue after him, lest he find fenced cities, and escape us. ^2-samuel-20-6-douay
+
+7 So Joab's men went out with him, and the Cerethi and the Phelethi: and all the valiant men went out of Jerusalem to pursue after Seba the son of Bochri. ^2-samuel-20-7-douay
+
+8 And when they were at the great stone which is in Gabaon, Amasa coming met them. And Joab had on a close coat of equal length with his habit, and over it was girded with a sword hanging down to his flank, in a scabbard, made in such manner as to come out with the least motion and strike. ^2-samuel-20-8-douay
+
+9 And Joab said to Amasa: God save thee, my brother. And he took Amasa by the chin with his right hand to kiss him. ^2-samuel-20-9-douay
+
+10 But Amasa did not take notice of the sword, which Joab had, and he struck him in the side, and shed out his bowels to the ground, and gave him not a second wound, and he died. And Joab, and Abisai his brother pursued after Seba the son of Bochri. ^2-samuel-20-10-douay
+
+11 In the mean time some men of Joab's company stopping at the dead body of Amasa, said: Behold he that would have been in Joab's stead the companion of David. ^2-samuel-20-11-douay
+
+12 And Amasa imbrued with blood, lay in the midst of the way. A certain man saw this that all the people stood still to look upon him, so he removed Amasa out of the highway into the field, and covered him with a garment, that they who passed might, not stop on his account. ^2-samuel-20-12-douay
+
+13 And when he was removed out of the way, all the people went on following Joab to pursue after Seba the son of Bochri. ^2-samuel-20-13-douay
+
+14 Now he had passed through all the tribes of Israel unto Abela and Bethmaacha: and all the chosen men were gathered together unto him. **Abela and Bethmaacha...** Cities of the tribe of Nephtali. ^2-samuel-20-14-douay
+
+15 And they came, and besieged him in Abela, and in Bethmaacha, and they cast up works round the city, and the city was besieged: and all the people that were with Joab, laboured to throw down the walls. ^2-samuel-20-15-douay
+
+16 And a wise woman cried out from the city: Hear, hear, and say to Joab: Come near hither, and I will speak with thee. ^2-samuel-20-16-douay
+
+17 And when he was come near to her, she said to him: Art thou Joab? And he answered: I am. And she spoke thus to him: Hear the words of thy handmaid. He answered: I do hear. ^2-samuel-20-17-douay
+
+18 And she again said: A saying was used in the old proverb: They that inquire, let them inquire in Abela: and so they made an end. ^2-samuel-20-18-douay
+
+19 Am not I she that answer truth in Israel, and thou seekest to destroy the city, and to overthrow a mother in Israel? Why wilt thou throw down the inheritance of the Lord? ^2-samuel-20-19-douay
+
+20 And Joab answering said: God forbid, God forbid that I should, I do not throw down, nor destroy. ^2-samuel-20-20-douay
+
+21 The matter is not so, but a man of mount Ephraim, Seba the son of Bochri by name, hath lifted up his hand against king David: deliver him only, and we will depart from the city. And the woman said to Joab: Behold his head shall be thrown to thee from the wall. ^2-samuel-20-21-douay
+
+22 So she went to all the people, and spoke to them wisely: and they cut off the head of Seba the son of Bochri, and cast it out to Joab. And he sounded the trumpet, and they departed from the city, every one to their home: and Joab returned to Jerusalem to the king. ^2-samuel-20-22-douay
+
+23 So Joab was over all the army of Israel: and Banaias the son of Joiada was over the Cerethites and Phelethites, ^2-samuel-20-23-douay
+
+24 But Aduram over the tributes: and Josaphat the son of Ahilud was recorder. ^2-samuel-20-24-douay
+
+25 And Siva was scribe: and Sadoc and Abiathar, priests. ^2-samuel-20-25-douay
+
+26 And Ira the Jairite was the priest of David. ^2-samuel-20-26-douay
+
+> Old Testament first published 1609 by the English College at Douay
+> New Testament first published 1582 by the English College at Rheims
+> Revised and Annotated 1749 by Bishop Richard Challoner
+> *Imprimatur.* +James Cardinal Gibbons, Archbishop of Baltimore, September 1, 1899
+
+---
+
+> [[2-samuel-19-douay|← Previous]] | [[2-samuel-00-douay|TOC]] | [[2-samuel-21-douay|Next →]]
+
+![[bibliography#^biblio-douay]]

@@ -1,0 +1,57 @@
+---
+type: doctor-work
+title: "Chapter XXVII. Of Unseemly Words, and the Respect Due to Others — Introduction to the Devout Life by St. Francis de Sales"
+anchor:
+  - "[[fs-devout-life]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[francis-de-sales-saint|Francis de Sales]]"
+aliases:
+  - Chapter XXVII. Of Unseemly Words, and the Respect Due to Others
+  - Chapter XXVII. Of Unseemly Words, and the Respect Due to Others — Introduction to the Devout Life by St. Francis de Sales
+  - part-iii-27-fs-idl
+tags:
+  - author/st-francis-de-sales
+  - book/introduction-to-devout-life
+  - type/book
+  - type/doctor-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-19
+modified: 2026-09-10
+description: "Chapter XXVII. Of Unseemly Words, and the Respect Due to Others — Introduction to the Devout Life by St. Francis de Sales"
+---
+
+> [[part-iii-26-fs-idl|← Chapter XXVI]] | [[toc-fs-idl|TOC]] | [[part-iii-28-fs-idl|Chapter XXVIII →]]
+
+# Chapter XXVII. Of Unseemly Words, and the Respect Due to Others
+
+SAINT JAMES says, "If any man offend not in word, the same is, a perfect man." [130] Beware most watchfully against ever uttering any unseemly expression; even though you may have no evil intention, those who hear it may receive it with a different meaning. An impure word falling upon a weak mind spreads its infection like a drop of oil on a garment, and sometimes it will take such a hold of the heart, as to fill it with an infinitude of lascivious thoughts and temptations. The body is poisoned through the mouth, even so is the heart through the ear; and the tongue which does the deed is a murderer, even when the venom it has infused is counteracted by some antidote preoccupying the listener's heart. It was not the speaker's fault that he did not slay that soul. Nor let any one answer that he meant no harm. Our Lord, Who knoweth the hearts of men, has said, "Out of the abundance of the heart the mouth speaketh." [131] And even if we do mean no harm, the Evil One means a great deal, and he will use those idle words as a sharp weapon against some neighbour's heart. It is said that those who eat the plant called Angelica always have a sweet, pleasant breath; and those who cherish the angelic virtues of purity and modesty, will always speak simply, courteously, and modestly. As to unclean and light-minded talk,
+
+   S. Paul says such things should not even be named [132] among us, for, as he elsewhere tells us, "Evil communications corrupt good manners."
+
+[133]
+
+Those impure words which are spoken in disguise, and with an affectation of reserve, are the most harmful of all; for just as the sharper the point of a dart, so much deeper it will pierce the flesh, so the sharper an unholy word, the more it penetrates the heart. And as for those who think to show themselves knowing when they say such things, they do not even understand the first object of mutual intercourse among men, who ought rather to be like a hive of bees gathering to make honey by good and useful conversation, than like a wasps' nest, feeding on corruption. If any impertinent person addresses you in unseemly language, show that you are displeased by turning away, or by whatever other method your discretion may indicate.
+
+One of the most evil dispositions possible is that which satirises and turns everything to ridicule. God abhors this vice, and has sometimes punished it in a marked manner. Nothing is so opposed to charity, much more to a devout spirit, as contempt and depreciation of one's neighbour, and where satire and ridicule exist contempt must be. Therefore contempt is a grievous sin, and our spiritual doctors have well said that ridicule is the greatest sin we can commit in word against our neighbour, inasmuch as when we offend him in any other way, there may still be some respect for him in our heart, but we are sure to despise those whom we ridicule.
+
+There is a light-hearted talk, full of modest life and gaiety, which the Greeks called Eutrapelia, and which we should call good conversation, by which we may find an innocent and kindly amusement out of the trifling occurrences which human imperfections afford. Only beware of letting this seemly mirth go too far, till it becomes ridicule. Ridicule excites mirth at the expense of one's neighbour; seemly mirth and playful fun never lose sight of a trustful, kindly courtesy, which can wound no one. When the religious around him would fain have discussed serious matters with S. Louis at meal-times, he used to say, "This is not the time for grave discussion, but for general conversation and cheerful recreation,"--out of consideration for his courtiers. But, my daughter, let our recreation always be so spent, that we may win all eternity through devotion.
+
+[130] S. James iii. 2.
+
+[131] S. Matt. xii. 34.
+
+[132] Eph. v. 3.
+
+[133] 1 Cor. xv. 33.
+
+---
+
+## About This Page
+
+---
+
+> [[part-iii-26-fs-idl|← Chapter XXVI]] | [[toc-fs-idl|TOC]] | [[part-iii-28-fs-idl|Chapter XXVIII →]]
+
+![[bibliography#^biblio-idl]]

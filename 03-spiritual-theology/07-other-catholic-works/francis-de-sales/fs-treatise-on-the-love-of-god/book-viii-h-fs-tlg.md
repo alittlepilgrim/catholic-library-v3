@@ -1,0 +1,55 @@
+---
+type: doctor-work
+title: Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin – Book VIII – Treatise on the Love of God by St. Francis de Sales
+anchor:
+  - "[[fs-treatise-on-the-love-of-god]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[francis-de-sales-saint|Francis de Sales]]"
+aliases:
+  - book-viii-h-fs-tlg
+  - Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin
+  - Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin – Book VIII – Treatise on the Love of God by St. Francis de Sales
+tags:
+  - author/st-francis-de-sales
+  - book/treatise-on-the-love-of-god
+  - term/evangelical-counsels
+  - term/sin
+  - type/book
+  - type/doctor-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-19
+modified: 2026-09-10
+description: Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin – Book VIII – Treatise on the Love of God by St. Francis de Sales
+---
+
+> [[book-viii-g-fs-tlg|← Chapter VII]] | [[toc-fs-tlg|TOC]] | [[book-viii-i-fs-tlg|Chapter IX →]]
+
+# Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin
+
+The words in which our Saviour exhorts us to tend towards and aim at perfection, are so forcible and so pressing, that we cannot dissemble the obligation we have to undertake to carry out that design. Be holy, says he, because I am holy. [380] He that is holy, let him be sanctified still; and he that is just, let him be justified still. [381] Be perfect, as your heavenly Father is perfect. [382] For this cause, the great S. Bernard writing to the glorious S. Guerin, Abbot of Aulps, whose life and miracles have left so sweet an odour in this diocese: "The just man," says he, "never says it is enough; he still hungers and thirsts after justice."
+
+Truly, Theotimus, in temporal matters nothing suffices him who is not satisfied with what is enough; for what can suffice him to whom sufficiency is not sufficient? But in spiritual goods he has not sufficient who is satisfied with what is enough, and sufficiency is not sufficient, because true sufficiency in divine things consists partly in the desire of affluence. God in the beginning commanded the earth to bring forth the green herb, and such as may seed, and the fruit-tree yielding fruit after its kind, which has also seed in itself. [383]
+
+And do we not see by experience, that plants and fruits are not come to their full growth and maturity till they bring forth their seeds and pips, whence other trees and plants of the same kind spring. Never do our virtues come to their full stature and measure, till such time as they beget in us desires of progress, which like spiritual seeds serve for the production of new degrees of virtue. And, methinks, the earth of our heart is commanded to bring forth the plants of virtue, which bear the fruits of good works, every one in its kind, and having the seeds of desires and resolutions of ever multiplying and advancing in perfection. And the virtue that bears not the seed of these desires is not yet come to its growth and maturity. "So then," says S. Bernard to the tepid man, "you do not want to advance in perfection? No. Nor yet grow worse? No, truly. What, then--you would neither grow better nor worse?--poor man, you would be what cannot be. Nothing, indeed, in the world is either stable or constant; but of man it is said even more specially that he never remaineth in the same state. [384] It is necessary then that he either go forward or backward."
+
+Now I say not, any more than does S. Bernard, that it is a sin not to practise the counsels. No, in truth, Theotimus: for it is the very difference between commandments and counsels, that the commandment obliges us under pain of sin, and the counsel only invites us without pain of sin. Yet I distinctly say that to contemn the aiming after Christian perfection is a great sin, and that it is a still greater to contemn the invitation by which our Saviour calls us to it; but it is an insupportable impiety to contemn the counsels and means which our Saviour points out for the attainment of it. It were a heresy to say, that our Saviour had not given us good counsel, and a blasphemy to say to God: Depart from us, we desire not the knowledge of thy ways: [385] but it is a horrible irreverence towards him who with so much love and sweetness invites us to perfection, to say: I will not be holy or perfect, nor have any larger portion of thy benevolence, nor follow the counsels which thou givest me to make progress in perfection.
+
+We may indeed without sin not follow the counsels, on account of the affection we may have to other things: as for example, it is lawful for a man not to sell what he possesseth to give to the poor, because he has not the courage to make so entire a renunciation. It is also lawful to marry, because one loves, or because one has not strength of mind necessary to undertake the war which must be waged against the flesh. But to profess not to wish to follow the counsels, nor any one of them, cannot be done without contempt of him who gives them. Not to follow the counsel of virginity, and so to marry, is not wrong, but marrying as if putting marriage higher than chastity, as heretics do, that is a great contempt either of the counsellor or of his counsel. To drink wine against the doctor's advice when overcome with thirst or with a desire to drink, is not precisely to contemn the doctor nor his advice: but to say--I will not follow the doctor's advice--must necessarily proceed from some bad opinion one harbours of him. Now as regards men, one may often contemn their counsel, without contemning those who give it, because to think that a man may have erred is not to contemn him. But to reject and contemn God's counsel, can only spring from an idea that he has not counselled us well; which cannot be thought but by a spirit of blasphemy, as though God were not wise enough to be able, or good enough to will, to give good advice. We may say the same of the counsels of the Church, which by reason of the continued assistance of the Holy Ghost, who instructs and conducts her in all truth, can never give evil advice.
+
+[380] Levit. xi. 44.
+
+[381] Apoc. xxii. 11 [382] Matt. v. 48.
+
+[383] Gen. i. 11.
+
+[384] Job xiv. 2.
+
+[385] Job xxi. 14.
+
+---
+
+> [[book-viii-g-fs-tlg|← Chapter VII]] | [[toc-fs-tlg|TOC]] | [[book-viii-i-fs-tlg|Chapter IX →]]
+
+![[bibliography#^biblio-tlg]]

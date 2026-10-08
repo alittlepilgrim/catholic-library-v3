@@ -1,0 +1,105 @@
+---
+type: bible
+title: "Acts 26 – Text – Ignatius Catholic Study Bible (RSV-2CE)"
+source: "Hahn, Scott, and Curtis Mitch. The Ignatius Catholic Study Bible: New Testament. Revised Standard Version, Second Catholic Edition. San Francisco: Ignatius Press, 2010."
+author: "[[scott-hahn|Scott Hahn]]"
+aliases:
+  - "Acts 26 – Ignatius Catholic Study Bible"
+  - "Acts 26 – RSV-2CE"
+  - "Acts 26 – Text – Ignatius Catholic Study Bible (RSV-2CE)"
+tags:
+  - bible/acts-of-the-apostles
+  - bible/chapter
+  - bible/new-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+created: 2026-08-10
+modified: 2026-09-10
+description: "Acts 26 — the RSV-2CE text as printed in the Ignatius Catholic Study Bible, New Testament."
+---
+
+*Updated on 2026-08-10.*
+
+> [[acts-25-rsv2ce|← Previous]] | [[acts-commentary|Commentary]] | [[acts-27-rsv2ce|Next →]]
+
+# Acts 26 – Ignatius Catholic Study Bible (RSV-2CE)
+
+**Paul Makes His Defense before Agrippa**
+
+1 Agrippa said to Paul, "You have permission to speak for yourself." Then Paul stretched out his hand and made his defense: ^acts-26-1
+
+2 "I think myself fortunate that it is before you, King Agrippa, I am to make my defense today against all the accusations of the Jews, ^acts-26-2
+
+3 because you are especially familiar with all customs and controversies of the Jews; therefore I beg you to listen to me patiently. ^acts-26-3
+
+4 "My manner of life from my youth, spent from the beginning among my own nation and at Jerusalem, is known by all the Jews. ^acts-26-4
+
+5 They have known for a long time, if they are willing to testify, that according to the strictest party of our religion I have lived as a Pharisee. ^acts-26-5
+
+6 And now I stand here on trial for hope in the promise made by God to our fathers, ^acts-26-6
+
+7 to which our twelve tribes hope to attain, as they earnestly worship night and day. And for this hope I am accused by Jews, O king! ^acts-26-7
+
+8 Why is it thought incredible by any of you that God raises the dead? ^acts-26-8
+
+9 "I myself was convinced that I ought to do many things in opposing the name of Jesus of Nazareth. ^acts-26-9
+
+10 And I did so in Jerusalem; I not only shut up many of the saints in prison, by authority from the chief priests, but when they were put to death I cast my vote against them. ^acts-26-10
+
+11 And I punished them often in all the synagogues and tried to make them blaspheme; and in raging fury against them, I persecuted them even to foreign cities. ^acts-26-11
+
+**Paul Tells of His Conversion**
+
+12 "Thus I journeyed to Damascus with the authority and commission of the chief priests. ^acts-26-12
+
+13 At midday, O king, I saw on the way a light from heaven, brighter than the sun, shining round me and those who journeyed with me. ^acts-26-13
+
+14 And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language, 'Saul, Saul, why do you persecute me? It hurts you to kick against the goads.' ^acts-26-14
+
+15 And I said, 'Who are you, Lord?' And the Lord said, 'I am Jesus whom you are persecuting. ^acts-26-15
+
+16 But rise and stand upon your feet; for I have appeared to you for this purpose, to appoint you to serve and bear witness to the things in which you have seen me and to those in which I will appear to you, ^acts-26-16
+
+17 delivering you from the people and from the Gentiles —to whom I send you ^acts-26-17
+
+18 to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.' ^acts-26-18
+
+**Paul Tells of His Preaching**
+
+19 "Wherefore, O King Agrippa, I was not disobedient to the heavenly vision, ^acts-26-19
+
+20 but declared first to those at Damascus, then at Jerusalem and throughout all the country of Judea, and also to the Gentiles, that they should repent and turn to God and perform deeds worthy of their repentance. ^acts-26-20
+
+21 For this reason the Jews seized me in the temple and tried to kill me. ^acts-26-21
+
+22 To this day I have had the help that comes from God, and so I stand here testifying both to small and great, saying nothing but what the prophets and Moses said would come to pass: ^acts-26-22
+
+23 that the Christ must suffer, and that, by being the first to rise from the dead, he would proclaim light both to the people and to the Gentiles." ^acts-26-23
+
+**Paul Appeals to Agrippa to Believe**
+
+24 And as he thus made his defense, Festus said with a loud voice, "Paul, you are mad; your great learning is turning you mad." ^acts-26-24
+
+25 But Paul said, "I am not mad, most excellent Festus, but I am speaking the sober truth. ^acts-26-25
+
+26 For the king knows about these things, and to him I speak freely; for I am persuaded that none of these things has escaped his notice, for this was not done in a corner. ^acts-26-26
+
+27 King Agrippa, do you believe the prophets? I know that you believe." ^acts-26-27
+
+28 And Agrippa said to Paul, "In a short time you think to make me a Christian!" ^acts-26-28
+
+29 And Paul said, "Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am—except for these chains." ^acts-26-29
+
+30 Then the king rose, and the governor and Bernice and those who were sitting with them; ^acts-26-30
+
+31 and when they had withdrawn, they said to one another, "This man is doing nothing to deserve death or imprisonment." ^acts-26-31
+
+32 And Agrippa said to Festus, "This man could have been set free if he had not appealed to Caesar." ^acts-26-32
+
+---
+
+> [[acts-25-rsv2ce|← Previous]] | [[acts-commentary|Commentary]] | [[acts-27-rsv2ce|Next →]]
+
+![[bibliography#^biblio-icsb]]

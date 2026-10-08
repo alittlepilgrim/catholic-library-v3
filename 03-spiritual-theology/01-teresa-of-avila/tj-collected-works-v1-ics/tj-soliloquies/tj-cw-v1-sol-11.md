@@ -1,0 +1,48 @@
+---
+type: doctor-work
+title: Soliloquy 11. The fear of endless torments – Soliloquies by Teresa of Ávila
+anchor:
+  - "[[tj-cw-v1-sol]]"
+source: "Teresa of Ávila. The Collected Works of St. Teresa of Avila. Vol. 1: The Book of Her Life; Spiritual Testimonies; Soliloquies. Translated by Kieran Kavanaugh and Otilio Rodriguez. 2nd ed. rev. Washington, DC: ICS Publications, 1987 (11th printing, 2019)."
+author: "[[teresa-of-avila-saint|Teresa of Ávila]]"
+aliases:
+  - sol-11
+  - Soliloquy 11 – Soliloquies
+  - Soliloquy 11. The fear of endless torments – Soliloquies by Teresa of Ávila
+  - tj-cw-v1-ics-p-453
+  - tj-cw-v1-sol-11-wn
+tags:
+  - author/st-teresa-of-avila
+  - book/tj-sol-ics
+  - term/faith
+  - term/hell
+  - type/doctor-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-06-03
+modified: 2026-09-10
+description: The fear of endless torments
+---
+
+> [[tj-cw-v1-sol-10|← Soliloquy 10]] | [[tj-cw-v1-sol-toc|TOC]] | [[tj-cw-v1-sol-12|Soliloquy 12 →]]
+
+# Soliloquy 11
+
+**The fear of endless torments**
+
+Oh, God help me! Oh, God help me! How great a torment it is for me when I consider what a soul that has always here below been valued, loved, served, esteemed, and pampered will feel when after having died finds itself lost forever, and understands clearly that this loss is endless. (Forgetting about the truths of faith will be no help there, as it is here below.) Also what a torment it is for me to consider what a soul will feel when it finds itself separated from what seemingly it will not yet have begun to enjoy (and rightly so, for all that which ends with life is but a breath of wind), and surrounded by that deformed and pitiless company with whom it will always have to suffer. It will be placed in that fetid lake filled with snakes, and the bigger the snake, the bigger the bite; in that miserable darkness where it will only see what gives it torment and pain, without seeing any light other than a dark flame! Oh, how ineffective exaggeration is in expressing what this suffering is!
+
+2\. O Lord, who placed so much mud in the eyes of this soul that it has not seen these things before it sees them there? O Lord, who stopped its ears that it didn’t hear the many times these things were explained to it or of the eternity of these torments? O life that shall not end! O torment without end! O torment without end! How is it they don’t fear you, those who are afraid to sleep on a hard bed lest they cause their body discomfort? ^tj-cw-v1-sol-11-2
+
+3\. O Lord, my God! I weep for the time I didn’t understand; and since You know, my God, the great number who don’t want to understand, I now beg You, Lord, let there be at least one, at least one who will see Your light so that many might possess it. Not through my merits, Lord, for I don’t deserve it, but through the merits of Your Son. Behold His wounds, Lord, and since He pardoned those who inflicted them;[^1] may You pardon us. ^tj-cw-v1-sol-11-3
+
+---
+
+[^1]: [[luke-23#^luke-23-34|Lk 23:34]].
+
+---
+
+> [[tj-cw-v1-sol-10|← Soliloquy 10]] | [[tj-cw-v1-sol-toc|TOC]] | [[tj-cw-v1-sol-12|Soliloquy 12 →]]
+
+![[bibliography#^biblio-tj-cw-v1-ics]]

@@ -1,0 +1,94 @@
+---
+type: bible
+title: "1 Samuel 12 (RSV-2CE)"
+source: "The Holy Bible, Revised Standard Version, Second Catholic Edition (The Ignatius Bible). San Francisco: Ignatius Press, 2006."
+aliases:
+  - "1 Samuel 12 (RSV-2CE)"
+  - "1 Samuel 12 – RSV-2CE"
+  - 1-samuel-12-rsv2ce
+tags:
+  - bible/chapter
+  - bible/1-samuel
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: 1-samuel
+bible_chapter: 12
+created: 2026-09-28
+modified: 2026-09-28
+description: "1 Samuel 12, Revised Standard Version, Second Catholic Edition (Ignatius Bible)."
+---
+
+> [[1-samuel-11-rsv2ce|← Previous]] | [[1-samuel-00-rsv2ce|1 Samuel]] | [[1-samuel-13-rsv2ce|Next →]]
+
+# 1 Samuel 12 (RSV-2CE)
+
+*Also:* [[1-samuel-12|NABRE]]
+
+**Samuel’s Farewell Address**
+
+1 And Samuel said to all Israel, “Behold, I have listened to your voice in all that you have said to me, and have made a king over you. ^1-samuel-12-1
+
+2 And now, behold, the king walks before you; and I am old and gray, and behold, my sons are with you; and I have walked before you from my youth until this day. ^1-samuel-12-2
+
+3 Here I am; testify against me before the LORD and before his anointed. Whose ox have I taken? Or whose donkey have I taken? Or whom have I defrauded? Whom have I oppressed? Or from whose hand have I taken a bribe to blind my eyes with it? Testify against me and I will restore it to you.” ^1-samuel-12-3
+
+4 They said, “You have not defrauded us or oppressed us or taken anything from any man’s hand.” ^1-samuel-12-4
+
+5 And he said to them, “The LORD is witness against you, and his anointed is witness this day, that you have not found anything in my hand.” And they said, “He is witness.” ^1-samuel-12-5
+
+6 And Samuel said to the people, “The LORD is witness, who appointed Moses and Aaron and brought your fathers up out of the land of Egypt. ^1-samuel-12-6
+
+7 Now therefore stand still, that I may plead with you before the LORD concerning all the saving deeds of the LORD which he performed for you and for your fathers. ^1-samuel-12-7
+
+8 When Jacob went into Egypt and the Egyptians oppressed them, then your fathers cried to the LORD and the LORD sent Moses and Aaron, who brought forth your fathers out of Egypt, and made them dwell in this place. ^1-samuel-12-8
+
+9 But they forgot the LORD their God; and he sold them into the hand of Sis'era, commander of the army of Ja'bin king of Ha'zor, and into the hand of the Philis'tines, and into the hand of the king of Moab; and they fought against them. ^1-samuel-12-9
+
+10 And they cried to the LORD, and said, ‘We have sinned, because we have forsaken the LORD, and have served the Ba'als and the Ash'taroth; but now deliver us out of the hand of our enemies, and we will serve you.’ ^1-samuel-12-10
+
+11 And the LORD sent Jerubba'al and Barak, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side; and you dwelt in safety. ^1-samuel-12-11
+
+12 And when you saw that Na'hash the king of the Am'monites came against you, you said to me, ‘No, but a king shall reign over us,’ when the LORD your God was your king. ^1-samuel-12-12
+
+13 And now behold the king whom you have chosen, for whom you have asked; behold, the LORD has set a king over you. ^1-samuel-12-13
+
+14 If you will fear the LORD and serve him and listen to his voice and not rebel against the commandment of the LORD, and if both you and the king who reigns over you will follow the LORD your God, it will be well; ^1-samuel-12-14
+
+15 but if you will not listen to the voice of the LORD, but rebel against the commandment of the LORD, then the hand of the LORD will be against you and your king. ^1-samuel-12-15
+
+16 Now therefore stand still and see this great thing, which the LORD will do before your eyes. ^1-samuel-12-16
+
+17 Is it not wheat harvest today? I will call upon the LORD, that he may send thunder and rain; and you shall know and see that your wickedness is great, which you have done in the sight of the LORD, in asking for yourselves a king.” ^1-samuel-12-17
+
+18 So Samuel called upon the LORD, and the LORD sent thunder and rain that day; and all the people greatly feared the LORD and Samuel. ^1-samuel-12-18
+
+19 And all the people said to Samuel, “Pray for your servants to the LORD your God, that we may not die; for we have added to all our sins this evil, to ask for ourselves a king.” ^1-samuel-12-19
+
+20 And Samuel said to the people, “Fear not; you have done all this evil, yet do not turn aside from following the LORD, but serve the LORD with all your heart; ^1-samuel-12-20
+
+21 and do not turn aside after vain things which cannot profit or save, for they are vain. ^1-samuel-12-21
+
+22 For the LORD will not cast away his people, for his great name’s sake, because it has pleased the LORD to make you a people for himself. ^1-samuel-12-22
+
+23 Moreover as for me, far be it from me that I should sin against the LORD by ceasing to pray for you; and I will instruct you in the good and the right way. ^1-samuel-12-23
+
+24 Only fear the LORD, and serve him faithfully with all your heart; for consider what great things he has done for you. ^1-samuel-12-24
+
+25 But if you still do wickedly, you shall be swept away, both you and your king.” ^1-samuel-12-25
+
+---
+
+## Doctrinal Notes (Ignatius Bible)
+
+\* (12:11) Jerubbaal: i.e., Gideon. ^1-samuel-12-dn-1
+
+\* (12:20–25) Samuel here summarizes the antimonarchist attitude; cf. Josh 24. ^1-samuel-12-dn-2
+
+---
+
+> [[1-samuel-11-rsv2ce|← Previous]] | [[1-samuel-00-rsv2ce|1 Samuel]] | [[1-samuel-13-rsv2ce|Next →]]
+
+![[bibliography#^biblio-rsv]]

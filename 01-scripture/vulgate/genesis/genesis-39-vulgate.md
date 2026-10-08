@@ -1,0 +1,80 @@
+---
+type: bible
+title: "Genesis 39 (Vulgate)"
+source: "Biblia Sacra Vulgatae Editionis, Sixto-Clementine edition (1592). Text from the Clementine Text Project (public domain)."
+language: la
+aliases:
+  - "Genesis 39 (Vulgate)"
+  - genesis-39-vulgate
+tags:
+  - bible/chapter
+  - bible/genesis
+  - bible/old-testament
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: genesis
+bible_chapter: 39
+created: 2026-09-28
+modified: 2026-09-28
+description: "Genesis 39, Latin Vulgate (Clementine, 1592)."
+---
+
+> [[genesis-38-vulgate|← Previous]] | [[genesis-00-vulgate|TOC]] | [[genesis-40-vulgate|Next →]]
+
+# Genesis 39
+
+*Douay-Rheims:* [[genesis-39-douay|Genesis 39]]
+
+1 Igitur Joseph ductus est in Ægyptum, emitque eum Putiphar eunuchus Pharaonis, princeps exercitus, vir ægyptius, de manu Ismaëlitarum, a quibus perductus erat. ^genesis-39-1-vulgate
+
+2 Fuitque Dominus cum eo, et erat vir in cunctis prospere agens : habitavitque in domo domini sui, ^genesis-39-2-vulgate
+
+3 qui optime noverat Dominum esse cum eo, et omnia, quæ gerebat, ab eo dirigi in manu illius. ^genesis-39-3-vulgate
+
+4 Invenitque Joseph gratiam coram domino suo, et ministrabat ei : a quo præpositus omnibus gubernabat creditam sibi domum, et universa quæ ei tradita fuerant : ^genesis-39-4-vulgate
+
+5 benedixitque Dominus domui Ægyptii propter Joseph, et multiplicavit tam in ædibus quam in agris cunctam ejus substantiam : ^genesis-39-5-vulgate
+
+6 nec quidquam aliud noverat, nisi panem quo vescebatur. Erat autem Joseph pulchra facie, et decorus aspectu. ^genesis-39-6-vulgate
+
+7 Post multos itaque dies injecit domina sua oculos suos in Joseph, et ait : Dormi mecum. ^genesis-39-7-vulgate
+
+8 Qui nequaquam acquiescens operi nefario, dixit ad eam : Ecce dominus meus, omnibus mihi traditis, ignorat quid habeat in domo sua : ^genesis-39-8-vulgate
+
+9 nec quidquam est quod non in mea sit potestate, vel non tradiderit mihi, præter te, quæ uxor ejus es : quomodo ergo possum hoc malum facere, et peccare in Deum meum ? ^genesis-39-9-vulgate
+
+10 Hujuscemodi verbis per singulos dies, et mulier molesta erat adolescenti : et ille recusabat stuprum. ^genesis-39-10-vulgate
+
+11 Accidit autem quadam die ut intraret Joseph domum, et operis quippiam absque arbitris faceret : ^genesis-39-11-vulgate
+
+12 et illa, apprehensa lacinia vestimenti ejus, diceret : Dormi mecum. Qui relicto in manu ejus pallio fugit, et egressus est foras. ^genesis-39-12-vulgate
+
+13 Cumque vidisset mulier vestem in manibus suis, et se esse contemptam, ^genesis-39-13-vulgate
+
+14 vocavit ad se homines domus suæ, et ait ad eos : En introduxit virum hebræum, ut illuderet nobis : ingressus est ad me, ut coiret mecum : cumque ego succlamassem, ^genesis-39-14-vulgate
+
+15 et audisset vocem meam, reliquit pallium quod tenebam, et fugit foras. ^genesis-39-15-vulgate
+
+16 In argumentum ergo fidei retentum pallium ostendit marito revertenti domum, ^genesis-39-16-vulgate
+
+17 et ait : Ingressus est ad me servus hebræus quem adduxisti, ut illuderet mihi : ^genesis-39-17-vulgate
+
+18 cumque audisset me clamare, reliquit pallium quod tenebam, et fugit foras. ^genesis-39-18-vulgate
+
+19 His auditis dominus, et nimium credulus verbis conjugis, iratus est valde : ^genesis-39-19-vulgate
+
+20 tradiditque Joseph in carcerem, ubi vincti regis custodiebantur, et erat ibi clausus. ^genesis-39-20-vulgate
+
+21 Fuit autem Dominus cum Joseph, et misertus illius dedit ei gratiam in conspectu principis carceris. ^genesis-39-21-vulgate
+
+22 Qui tradidit in manu illius universos vinctos qui in custodia tenebantur : et quidquid fiebat, sub ipso erat. ^genesis-39-22-vulgate
+
+23 Nec noverat aliquid, cunctis ei creditis : Dominus enim erat cum illo, et omnia opera ejus dirigebat. ^genesis-39-23-vulgate
+
+---
+
+> [[genesis-38-vulgate|← Previous]] | [[genesis-00-vulgate|TOC]] | [[genesis-40-vulgate|Next →]]
+
+![[bibliography#^biblio-vulgate]]

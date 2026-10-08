@@ -1,0 +1,59 @@
+---
+type: doctor-work
+title: Chapter XVI. How Love Is Practised in Hope – Book II – Treatise on the Love of God by St. Francis de Sales
+anchor:
+  - "[[fs-treatise-on-the-love-of-god]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[francis-de-sales-saint|Francis de Sales]]"
+aliases:
+  - book-ii-p-fs-tlg
+  - Chapter XVI. How Love Is Practised in Hope
+  - Chapter XVI. How Love Is Practised in Hope – Book II – Treatise on the Love of God by St. Francis de Sales
+tags:
+  - author/st-francis-de-sales
+  - book/treatise-on-the-love-of-god
+  - term/hope
+  - term/love
+  - type/book
+  - type/doctor-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-19
+modified: 2026-09-10
+description: Chapter XVI. How Love Is Practised in Hope – Book II – Treatise on the Love of God by St. Francis de Sales
+---
+
+> [[book-ii-o-fs-tlg|← Chapter XV]] | [[toc-fs-tlg|TOC]] | [[book-ii-q-fs-tlg|Chapter XVII →]]
+
+# Chapter XVI. How Love Is Practised in Hope
+
+## Chapter XVI. How Love Is Practised in Hope
+
+Man's understanding then, being property applied to the consideration of that which faith represents to it touching its sovereign good, the will instantly conceives an extreme complacency in this divine object, which, as yet absent, begets an ardent desire of its presence, whence the soul holily cries out: Let him kiss me with the kiss of his mouth.[106] My soul panteth after thee, O God. [107]
+
+And as the unhooded falcon having her prey in view suddenly launches herself upon the wing, and if held in her leash struggles upon the hand with extreme ardour; so faith, having drawn the veil of ignorance, and made us see our sovereign good, whom nevertheless we cannot yet possess, detained by the condition of this mortal life,--Ah! Theotimus, we then desire it in such sort that, as the hart panteth after the fountains of waters; so my soul panteth after thee, O God! My soul hath thirsted after the strong living God; when shall I come and appear before the face of God? [108]
+
+This desire is just, Theotimus, for who would not desire so desirable a good? But it would be a useless desire, and would be but a continual torment to our heart if we had not assurance that we should at length satiate it. He who on account of the delay of this happiness, protests that his tears were his ordinary bread day and night, so long as his God was absent, and his enemies demanded: where is thy God? [109] --Alas! what would he have done if he had not had some hope of one day enjoying this good, after which he sighed. The divine spouse goes weeping and languishing with love, [110] because she does not at once find the well-beloved she is searching for. The love of the well-beloved had bred in her a desire, that desire begot an ardour to pursue it, and that ardour caused in her a languishing which would have consumed and annihilated her poor heart, unless she had hoped at length to meet with what she sought after. So then, lest the unrest and dolorous languor which the efforts of desiring love cause in our souls should make us fail in courage or reduce us to despair, the same sovereign good which moves in us so vehement a desire, also by a thousand thousand promises made in his Word and his inspirations, gives us assurance, that we may with ease obtain it, provided always that we will to employ the means which he has prepared for use and offers us to this effect.
+
+Now these divine promises and assurances, by a particular marvel, increase the cause of our disquiet, and yet, while they increase the cause, they undo and destroy the effects. Yea, verily, Theotimus; for the assurance which God gives us that paradise is ours, infinitely strengthens the desire we have to enjoy it, and yet weakens, yea altogether destroys, the trouble and disquiet which this desire brought unto us; so that our hearts by the promises which the divine goodness has made us, remain quite calmed, and this calm is the root of the most holy virtue which we call hope. For the will, assured by faith that she has power to enjoy the sovereign good by using the means appointed, makes two great acts of virtue: by the one she expects from God the fruition of his sovereign goodness, by the other she aspires to that holy fruition.
+
+And indeed, Theotimus, between hoping and aspiring (esperer et aspirer) there is but this difference, that we hope for those things which we expect to get by another's assistance, and we aspire unto those things which we think to reach by means that lie in our own power. And since we attain the fruition of our sovereign good, which is God, by his favour, grace and mercy, and yet the same mercy will have us co-operate with his favour, by contributing the weakness of our consent to the strength of his grace; our hope is thence in some sort mingled with aspiring, so that we do not altogether hope without aspiring, nor do we ever aspire without entirely hoping. Hope then keeps ever the principal place, as being founded upon divine grace, without which, as we cannot even so much as think of our sovereign good in the way required to reach it, so can we never without this grace aspire towards our sovereign God in the way required to obtain it.
+
+Aspiration then is a scion of hope, as our co-operation is of grace: and as those that would hope without aspiring, would be rejected as cowardly and negligent; so those that should aspire without hoping, would be rash, insolent and presumptuous. But when hope is seconded with aspiration, when, hoping we aspire and aspiring we hope, then dear Theotimus, hope by aspiration becomes a courageous desire, and aspiration is changed by hope into a humble claim, and we hope and aspire as God inspires us. But both are caused by that desiring love which tends to our sovereign good, to that good which the more surely it is hoped for, the more it is loved; yea hope is no other thing than the loving complacency we take in the expecting and seeking our sovereign good. All that is there is love, Theotimus. As soon as faith has shown me my sovereign good, I have loved it; and because it was absent I have desired it, and having understood that it would bestow itself upon me, I have loved and desired it yet more ardently; for indeed its goodness is so much more to be beloved and desired by how much more it is disposed to communicate itself. Now by this progress love has turned its desire into hope, seeking and expectation, so that hope is an expectant and aspiring love; and because the sovereign good which hope expects is God, and because also she expects it from God himself, to whom and by whom she hopes and aspires, this holy virtue of hope, abutting everywhere on God, is by consequence a divine or theological virtue.
+
+[106] Cant. i. 1.
+
+[107] Ps. xli. 1.
+
+[108] Ibid. 1, 2.
+
+[109] Ps. xli. 4.
+
+[110] Cant. v. 8.
+
+---
+
+> [[book-ii-o-fs-tlg|← Chapter XV]] | [[toc-fs-tlg|TOC]] | [[book-ii-q-fs-tlg|Chapter XVII →]]
+
+![[bibliography#^biblio-tlg]]

@@ -1,0 +1,64 @@
+---
+type: magisterium
+title: Introduction – Veritatis Splendor
+anchor: jpii-vs
+url: "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html"
+source: "John Paul II. *Veritatis Splendor*. Encyclical letter, August 6, 1993. The Holy See. https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html."
+author: Saint John Paul II
+aliases:
+  - Introduction – Veritatis Splendor
+  - Veritatis Splendor Introduction
+tags:
+  - author/saint-john-paul-ii
+  - magisterium/encyclical
+  - type/magisterium
+layer: 1
+authority: magisterial
+scope: universal
+part_of: "[[work-veritatis-splendor]]"
+created: 2026-04-18
+modified: 2026-09-10
+description: Introduction – Veritatis Splendor
+---
+
+> [[veritatis-splendor-toc|← Previous]] | [[veritatis-splendor-toc|TOC]] | [[jpii-vs-01|Next →]]
+
+# Introduction
+
+## Jesus Christ, the True Light That Enlightens Everyone
+
+1\. Called to salvation through faith in Jesus Christ, "the true light that enlightens everyone" ([[john-01#^john-01-9|*Jn* 1:9]]), people become "light in the Lord" and "children of light" ([[ephesians-05#^ephesians-05-8|*Eph* 5:8]]), and are made holy by "obedience to the truth" ([[1-peter-01#^1-peter-01-22|1 *Pet* 1:22]]). ^jpii-vs-1
+
+This obedience is not always easy. As a result of that mysterious original sin, committed at the prompting of Satan, the one who is "a liar and the father of lies" ([[john-08#^john-08-44|*Jn* 8:44]]), man is constantly tempted to turn his gaze away from the living and true God in order to direct it towards idols ([[1-thessalonians-01#^1-thessalonians-01-9|cf. 1 Thes 1:9]]), exchanging "the truth about God for a lie" ([[romans-01#^romans-01-25|Rom 1:25]]). Man's capacity to know the truth is also darkened, and his will to submit to it is weakened. Thus, giving himself over to relativism and scepticism ([[john-18#^john-18-38|cf. *Jn* 18:38]]), he goes off in search of an illusory freedom apart from truth itself.
+
+But no darkness of error or of sin can totally take away from man the light of God the Creator. In the depths of his heart there always remains a yearning for absolute truth and a thirst to attain full knowledge of it. This is eloquently proved by man's tireless search for knowledge in all fields. It is proved even more by his search for *the meaning of life.* The development of science and technology, this splendid testimony of the human capacity for understanding and for perseverance, does not free humanity from the obligation to ask the ultimate religious questions. Rather, it spurs us on to face the most painful and decisive of struggles, those of the heart and of the moral conscience.
+
+2\. No one can escape from the fundamental questions: *What must I do? How do I distinguish good from evil?* The answer is only possible thanks to the splendour of the truth which shines forth deep within the human spirit, as the Psalmist bears witness: "There are many who say: 'O that we might see some good! Let the light of your face shine on us, O Lord' " ([[psalm-04#^psalm-04-6|*Ps* 4:6]]). ^jpii-vs-2
+
+The light of God's face shines in all its beauty on the countenance of Jesus Christ, "the image of the invisible God" ([[colossians-01#^colossians-01-15|*Col* 1:15]]), the "reflection of God's glory" ([[hebrews-01#^hebrews-01-3|*Heb* 1:3]]), "full of grace and truth" ([[john-01#^john-01-14|*Jn* 1:14]]). Christ is "the way, and the truth, and the life" ([[john-14#^john-14-6|*Jn* 14:6]]). Consequently the decisive answer to every one of man's questions, his religious and moral questions in particular, is given by Jesus Christ, or rather is Jesus Christ himself, as the Second Vatican Council recalls: "In fact,*it is only in the mystery of the Word incarnate that light is shed on the mystery of man.* For Adam, the first man, was a figure of the future man, namely, of Christ the Lord. It is Christ, the last Adam, who fully discloses man to himself and unfolds his noble calling by revealing the mystery of the Father and the Father's love".<sup>([[jpii-vs-05#^jpii-vs-fn-1|1]])</sup>
+
+Jesus Christ, the "light of the nations", shines upon the face of his Church, which he sends forth to the whole world to proclaim the Gospel to every creature (cf. [[mark-16#^mark-16-15|*Mk* 16:15]]).<sup>([[jpii-vs-05#^jpii-vs-fn-2|2]])</sup> Hence the Church, as the People of God among the nations,<sup>([[jpii-vs-05#^jpii-vs-fn-3|3]])</sup> while attentive to the new challenges of history and to mankind's efforts to discover the meaning of life, offers to everyone the answer which comes from the truth about Jesus Christ and his Gospel. The Church remains deeply conscious of her "duty in every age of examining the signs of the times and interpreting them in the light of the Gospel, so that she can offer in a manner appropriate to each generation replies to the continual human questionings on the meaning of this life and the life to come and on how they are related".<sup>([[jpii-vs-05#^jpii-vs-fn-4|4]])</sup>
+
+3\. The Church's Pastors, in communion with the Successor of Peter, are close to the faithful in this effort; they guide and accompany them by their authoritative teaching, finding ever new ways of speaking with love and mercy not only to believers but to all people of good will. The Second Vatican Council remains an extraordinary witness of this attitude on the part of the Church which, as an "expert in humanity",<sup>([[jpii-vs-05#^jpii-vs-fn-5|5]])</sup> places herself at the service of every individual and of the whole world.<sup>([[jpii-vs-05#^jpii-vs-fn-6|6]])</sup> ^jpii-vs-3
+
+The Church knows that the issue of morality is one which deeply touches every person; it involves all people, even those who do not know Christ and his Gospel or God himself. She knows that it is precisely *on the path of the moral life that the way of salvation is open to all.* The Second Vatican Council clearly recalled this when it stated that "those who without any fault do not know anything about Christ or his Church, yet who search for God with a sincere heart and under the influence of grace, try to put into effect the will of God as known to them through the dictate of conscience... can obtain eternal salvation". The Council added: "Nor does divine Providence deny the helps that are necessary for salvation to those who, through no fault of their own, have not yet attained to the express recognition of God, yet who strive, not without divine grace, to lead an upright life. For whatever goodness and truth is found in them is considered by the Church as a preparation for the Gospel and bestowed by him who enlightens everyone that they may in the end have life".<sup>([[jpii-vs-05#^jpii-vs-fn-7|7]])</sup>
+
+## The Purpose of the Present Encyclical
+
+4\. At all times, but particularly in the last two centuries, the Popes, whether individually or together with the College of Bishops, have developed and proposed a moral teaching regarding the *many different spheres of human life.* In Christ's name and with his authority they have exhorted, passed judgment and explained. In their efforts on behalf of humanity, in fidelity to their mission, they have confirmed, supported and consoled. With the guarantee of assistance from the Spirit of truth they have contributed to a better understanding of moral demands in the areas of human sexuality, the family, and social, economic and political life. In the tradition of the Church and in the history of humanity, their teaching represents a constant deepening of knowledge with regard to morality.<sup>([[jpii-vs-05#^jpii-vs-fn-8|8]])</sup> ^jpii-vs-4
+
+Today, however, it seems *necessary to reflect on the whole of the Church's moral teaching,* with the precise goal of recalling certain fundamental truths of Catholic doctrine which, in the present circumstances, risk being distorted or denied. In fact, a new situation has come about *within the Christian community itself,* which has experienced the spread of numerous doubts and objections of a human and psychological, social and cultural, religious and even properly theological nature, with regard to the Church's moral teachings. It is no longer a matter of limited and occasional dissent, but of an overall and systematic calling into question of traditional moral doctrine, on the basis of certain anthropological and ethical presuppositions. At the root of these presuppositions is the more or less obvious influence of currents of thought which end by detaching human freedom from its essential and constitutive relationship to truth. Thus the traditional doctrine regarding the natural law, and the universality and the permanent validity of its precepts, is rejected; certain of the Church's moral teachings are found simply unacceptable; and the Magisterium itself is considered capable of intervening in matters of morality only in order to "exhort consciences" and to "propose values", in the light of which each individual will independently make his or her decisions and life choices.
+
+In particular, note should be taken of the *lack of harmony between the traditional response of the Church and certain theological positions,* encountered even in Seminaries and in Faculties of Theology, *with regard to questions of the greatest importance* for the Church and for the life of faith of Christians, as well as for the life of society itself. In particular, the question is asked: do the commandments of God, which are written on the human heart and are part of the Covenant, really have the capacity to clarify the daily decisions of individuals and entire societies? Is it possible to obey God and thus love God and neighbour, without respecting these commandments in all circumstances? Also, an opinion is frequently heard which questions the intrinsic and unbreakable bond between faith and morality, as if membership in the Church and her internal unity were to be decided on the basis of faith alone, while in the sphere of morality a pluralism of opinions and of kinds of behaviour could be tolerated, these being left to the judgment of the individual subjective conscience or to the diversity of social and cultural contexts.
+
+5\. Given these circumstances, which still exist, I came to the decision — as I announced in my Apostolic Letter *Spiritus Domini,* issued on 1 August 1987 on the second centenary of the death of Saint Alphonsus Maria de' Liguori — to write an Encyclical with the aim of treating "more fully and more deeply the issues regarding the very foundations of moral theology",<sup>([[jpii-vs-05#^jpii-vs-fn-9|9]])</sup> foundations which are being undermined by certain present day tendencies. ^jpii-vs-5
+
+I address myself to you, Venerable Brothers in the Episcopate, who share with me the responsibility of safeguarding "sound teaching" ([[2-timothy-04#^2-timothy-04-3|2 *Tim* 4:3]]), with the intention of *clearly setting forth certain aspects of doctrine which are of crucial importance in facing what is certainly a genuine crisis,* since the difficulties which it engenders have most serious implications for the moral life of the faithful and for communion in the Church, as well as for a just and fraternal social life.
+
+If this Encyclical, so long awaited, is being published only now, one of the reasons is that it seemed fitting for it to be preceded by the *Catechism of the Catholic Church,* which contains a complete and systematic exposition of Christian moral teaching. The Catechism presents the moral life of believers in its fundamental elements and in its many aspects as the life of the "children of God": "Recognizing in the faith their new dignity, Christians are called to lead henceforth a life 'worthy of the Gospel of Christ' ([[philippians-01#^philippians-01-27|*Phil* 1:27]]). Through the sacraments and prayer they receive the grace of Christ and the gifts of his Spirit which make them capable of such a life".<sup>([[jpii-vs-05#^jpii-vs-fn-10|10]])</sup> Consequently, while referring back to the Catechism "as a sure and authentic reference text for teaching Catholic doctrine",<sup>([[jpii-vs-05#^jpii-vs-fn-11|11]])</sup> the Encyclical will limit itself to dealing with *certain fundamental questions regarding the Church's moral teaching,* taking the form of a necessary discernment about issues being debated by ethicists and moral theologians. The specific purpose of the present Encyclical is this: to set forth, with regard to the problems being discussed, the principles of a moral teaching based upon Sacred Scripture and the living Apostolic Tradition,<sup>([[jpii-vs-05#^jpii-vs-fn-12|12]])</sup> and at the same time to shed light on the presuppositions and consequences of the dissent which that teaching has met.
+
+---
+
+> [[veritatis-splendor-toc|← Previous]] | [[veritatis-splendor-toc|TOC]] | [[jpii-vs-01|Next →]]
+
+![[bibliography#^biblio-jpii-vs]]

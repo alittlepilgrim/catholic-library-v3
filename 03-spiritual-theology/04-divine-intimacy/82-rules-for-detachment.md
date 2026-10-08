@@ -1,0 +1,80 @@
+---
+type: reference-work
+title: 82. Rules for Detachment
+anchor: gsmm-di
+source: "Gabriel of Saint Mary Magdalen, O.C.D. Divine Intimacy. Meditations on the Interior Life for Every Day of the Liturgical Year. Translated by the Discalced Carmelite Nuns of Boston. Rockford, IL. TAN Books, 1996."
+author: "[[gabriel-of-st-mary-magdalen|Gabriel of St. Mary Magdalen]]"
+about:
+  - "[[abnegation]]"
+  - "[[attachments]]"
+  - "[[detachment]]"
+  - "[[renunciation]]"
+  - "[[soul]]"
+  - "[[union-with-god]]"
+aliases:
+  - 82-rules-for-detachment
+  - 82. Rules for Detachment
+tags:
+  - book/divine-intimacy
+  - subject/asceticism
+  - term/abnegation
+  - term/attachments
+  - term/detachment
+  - term/renunciation
+  - term/soul
+  - term/union-with-god
+  - type/reference-work
+layer: 3
+authority: scholarly
+scope: universal
+celebration_di_name: Septuagesima Week
+celebration_di_rank:
+di_week: Septuagesima Week
+created: 2026-05-18
+modified: 2026-09-10
+description: "Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D."
+---
+
+> [[81-the-way-of-the-nothing|← 81. The Way of the Nothing]] | [[divine-intimacy-toc|TOC]] | [[83-the-night-of-the-senses|83. The Night of the Senses →]]
+
+# 82. Rules for Detachment
+
+PRESENCE OF GOD - O Lord, my blindness and weakness have further need of Your light and strength, in order that I may follow generously the way of “nothing.”
+
+## Meditation 1
+
+Jesus said, “The kingdom of heaven is like to a merchant seeking good pearls, who when he had found one pearl of great price, went his way and sold all that he had, and bought it” [[matthew-13#^matthew-13-45|(Mt 13,45.46)]]. The pearl of great price is that we possess; that is, we must detach ourselves from every inordinate appetite. Hence St. Teresa of Avila, in speaking of [[detachment|detachment]], says that “when it is practiced perfectly, it is everything” ([[tj-way-ccel-toc|Way]], 8). Of course, the spiritual life is not simply detachment, nor does it end there; but detachment practiced with perfection leads effectively to its goal: [[union-with-god|union with God]]. God alone can bring us to this union, but He will not do so unless, like the merchant in the Gospel, we sell everything, that is, unless we renounce even the smallest attachment to self or to creatures.
+
+These are the golden rules proposed by St. John of the Cross for total detachment: The [[soul|soul]] must always be inclined “not to the easiest thing, but to the hardest; not to the tastiest, but to the most insipid; not to things that give the greatest pleasure, but to those that give the least; not to restful things, but to painful ones; not to consolation, but to desolation; not to more, but to less; not to the highest and dearest, but to the lowest and most despised; not to the desire for something, but to having no desires” ([[jc-ccel-ascent-toc|AS]] J, 13,6). In this way we shall gradually become accustomed to subduing this inordinate desire for pleasure, which is at the base of all [[attachments|attachments]]. It is like going against a current; hence it is a hard, tiring task which can be accomplished only by strength of will. We must oppose the inclinations of nature and make ourselves do what is repugnant to nature. This is, however, a sweet task for a soul in love with God; it knows that everything it refuses to self is given to God and that, when it has reached the point of renouncing self in everything—of selling everything—God Himself will give it the precious pearl of divine union.
+
+## Meditation 2
+
+“The soul must embrace these acts wholeheartedly and strive to subject its will thereto. For if it undertakes them wholeheartedly, in a short time it will find great delight and consolation in them, working with order and discretion (ibid., 13,7). St. John of the Cross asks two things of the soul that desires to enter upon the way of the “nothing.” First of all, he demands decision and generosity; for anyone who has not the courage to renounce himself in everything will never reach total detachment and union with God. At the same time, he also demands “order and discretion.” The Saint does not expect us always and in everything to choose what is most difficult, painful, or tiring—which would be impossible, both because of the circumstances in which we live and because of our physical constitution, which always needs a certain amount of relaxation—but he does ask that we be disposed to this choice, that is, we must cultivate a desire for it. He wants us to develop within ourselves the inclination and habit of doing what is opposed to our own tendencies, so that when the opportunity occurs, we can do so without being hindered by our natural repugnance. At the beginning of the spiritual life it is especially necessary to proceed with discretion and to act according to the advice of the confessor and superior, particularly with regard to corporal mortification. It is most important that we make a firm decision to bend our will by this practice of [[renunciation|renunciation]], that we never give up on account of cowardice, and that, when we have to allow ourselves a little relaxation, because of expediency or duty, we do so with detachment, that is, with a will detached from the pleasure we may find in it.
+
+It is clear that we shall never attain the goal if we do not gain mastery over our attachments and resolve, once and for all, to put them all to death. It means real death to selfish and worldly satisfactions, but this death will give birth to life. Jesus said, “unless the grain of wheat falling into the ground die, itself remaineth alone. But if it die, it bringeth forth much fruit.... He that hateth his life in this world, keepeth it unto life eternal” [[john-12#^john-12-24|(Jn 12,24.25)]].
+
+## Colloquy
+
+O Lord, in the light of Your teachings even the hard and bitter way of total detachment becomes desirable, and everything invites me to undertake it courageously. You know, however, that I am weak and that my nature rebels at everything that is difficult, wearisome, or disagreeable; You know that it is always inclined to the things that require the least effort, to all that is easy, agreeable, and consoling. But Your love is all powerful, O Lord, and You, who through love made me out of nothing, can once again by the same love change my tastes, my inclinations. I well know that nothing but Your love can inspire me to enter upon this road and give me the courage to undertake this fundamental reform of myself. Your love alone, O Lord, is the magnet which draws me toward total renunciation. Your love alone will attract me and will be my reward. O God, deign to draw me ever more powerfully, because my weakness tends to stop me, to hold me back; this is exactly what I fear.
+
+“Why, O Lord, should I be preoccupied with my fears and lose courage in the face of my weakness? You give me to understand that I must fortify myself in humility, and convince myself that I can do very little alone, and that without your help I am nothing. I shall put all my confidence in your mercy, and shall distrust my own strength, convinced that my weakness is caused by my self-reliance. You teach me not to be astonished at my struggle, for when a soul wishes to give itself over to mortification, it encounters difficulties on all sides. Does it wish to give up its ease? What a hardship! To scorn a point of honor? What a torture! To endure harsh words? Intolerable suffering! In short, it becomes filled with extreme sadness, but as soon as it is resolved to die to the world, every anguish is at an end” ([[teresa-of-avila-saint|T.J.]] Con, 3).
+
+You died for me, O Lord. For love of You make me die to myself, to my desires, to my satisfactions. I shall die to myself in order to live for You, to attain to union with You.
+
+# References
+
+AS - [[jc-ccel-ascent-toc|Ascent of Mt. Carmel by Saint John of the Cross]]
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+Con - Conceptions of the Love of God by Saint Teresa of Avila
+
+Way - [[tj-way-ccel-toc|Way of Perfection by Saint Teresa of Avila]]
+
+See: [[abnegation|Abnegation]]
+
+---
+
+> [[81-the-way-of-the-nothing|← 81. The Way of the Nothing]] | [[divine-intimacy-toc|TOC]] | [[83-the-night-of-the-senses|83. The Night of the Senses →]]
+
+![[bibliography#^biblio-di]]

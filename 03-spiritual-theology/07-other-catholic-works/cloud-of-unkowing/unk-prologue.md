@@ -1,0 +1,47 @@
+---
+type: theologian-work
+title: Prologue — The Cloud of Unknowing
+anchor:
+  - "[[cloud-of-unkowing]]"
+source: "Anonymous. The Cloud of Unknowing. Edited by Evelyn Underhill. 2nd ed. London: John M. Watkins, 1922. Reprint, Christian Classics Ethereal Library."
+author: "Anonymous"
+aliases:
+  - Prologue — The Cloud of Unknowing
+  - Here Beginneth the Prologue
+  - unk-prologue
+tags:
+  - author/anonymous
+  - book/cloud-of-unknowing
+  - type/book
+  - type/theologian-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-08-26
+modified: 2026-09-10
+description: The author's own prologue and the prayer that opens it — his charge about who may read this book and who may not. Imported 2026-08-26 at Peregrinita's word.
+---
+
+> [[cloud-of-unkowing-toc|← Previous]] | [[cloud-of-unkowing-toc|TOC]] | [[unk-chapter-01|Next →]]
+
+# Prologue
+
+## Here Beginneth a Book of Contemplation, the Which Is Called the Cloud of Unknowing, in the Which a Soul Is Oned with God
+
+### Here Beginneth the Prayer on the Prologue
+
+GOD, unto whom all hearts be open, and unto whom all will speaketh, and unto whom no privy thing is hid. I beseech Thee so for to cleanse the intent of mine heart with the unspeakable gift of Thy grace, that I may perfectly love Thee, and worthily praise Thee. Amen.
+
+### Here Beginneth the Prologue
+
+IN the name of the Father and of the Son and of the Holy Ghost! I charge thee and I beseech thee, with as much power and virtue as the bond of charity is sufficient to suffer, whatsoever thou be that this book shalt have in possession, either by property, either by keeping, by bearing as messenger, or else by borrowing, that in as much as in thee is by will and advisement, neither thou read it, nor write it, nor speak it, nor yet suffer it be read, written, or spoken, of any or to any but if it be of such one, or to such one, that hath by thy supposing in a true will and by an whole intent purposed him to be a perfect follower of Christ not only in active living, but in the sovereignest point of contemplative living the which is possible by grace for to be come to in this present life of a perfect soul yet abiding in this deadly body; and thereto that doth that in him is, and by thy supposing hath done long time before, for to able him to contemplative living by the virtuous means of active living. For else it accordeth nothing to him. And over this I charge thee and I beseech thee by the authority of charity, that if any such shall read it, write it, or speak it, or else hear it be read or spoken, that thou charge him as I do thee, for to take him time to read it, speak it, write it, or hear it, all over. For peradventure there is some matter therein in the beginning or in the middle, the which is hanging, and not fully declared where it standeth: and if it be not there, it is soon after, or else in the end. Wherefore if a man saw one matter and not another, peradventure he might lightly be led into error; and therefore in eschewing of this error, both in thyself and in all other, I pray thee for charity do as I say thee.
+
+Fleshly janglers, open praisers and blamers of themselves or of any other, tellers of trifles, ronners and tattlers of tales, and all manner of pinchers, cared I never that they saw this book. For mine intent was never to write such thing unto them, and therefore I would that they meddle not therewith; neither they, nor any of these curious, lettered, or unlearned men. Yea, although that they be full good men of active living, yet this matter accordeth nothing to them. But if it be to those men, the which although they stand in activity by outward form of living, nevertheless yet by inward stirring after the privy spirit of God, whose dooms be hid, they be full graciously disposed, not continually as it is proper to very contemplatives, but now and then to be perceivers in the highest point of this contemplative act; if such men might see it, they should by the grace of God be greatly comforted thereby.
+
+This book is distinguished in seventy chapters and five. Of the which chapters, the last chapter of all teacheth some certain tokens by the which a soul may verily prove whether he be called of God to be a worker in this work or none.
+
+---
+
+> [[cloud-of-unkowing-toc|← Previous]] | [[cloud-of-unkowing-toc|TOC]] | [[unk-chapter-01|Next →]]
+
+![[bibliography#^biblio-cloud]]

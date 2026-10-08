@@ -1,0 +1,48 @@
+---
+type: theologian-work
+title: "Book 1, Chapter 2. Having a Humble Opinion of Self – The Imitation of Christ"
+anchor:
+  - "[[tk-imitation]]"
+source: "Kempis, Thomas a. The Imitation of Christ. Translated by William Benham. London: P.F. Collier & Son, 1909. Reprint, Christian Classics Ethereal Library."
+author: "[[thomas-a-kempis|Thomas a Kempis]]"
+aliases:
+  - Chapter 2. Having a Humble Opinion of Self
+  - Chapter 2. Having a Humble Opinion of Self – The Imitation of Christ
+tags:
+  - author/thomas-a-kempis
+  - book/imitation-of-christ
+  - type/book
+  - type/theologian-work
+layer: 3
+authority: scholarly
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter 2. Having a Humble Opinion of Self
+---
+
+> [[book-1-ch-1|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-1-ch-3|Next →]]
+
+# Chapter 2. Having a Humble Opinion of Self
+
+EVERY man naturally desires knowledge [2]; but what good is knowledge without fear of God? Indeed a humble rustic who serves God is better than a proud intellectual who neglects his soul to study the course of the stars. [3] He who knows himself well becomes mean in his own eyes and is not happy when praised by men.
+
+If I knew all things in the world and had not charity, what would it profit me before God Who will judge me by my deeds?
+
+Shun too great a desire for knowledge, for in it there is much fretting and delusion. Intellectuals like to appear learned and to be called wise. Yet there are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise.
+
+Many words do not satisfy the soul; but a good life eases the mind and a clean conscience inspires great trust in God.
+
+The more you know and the better you understand, the more severely will you be judged, unless your life is also the more holy. Do not be proud, therefore, because of your learning or skill. Rather, fear because of the talent given you. If you think you know many things and understand them well enough, realize at the same time that there is much you do not know. Hence, do not affect wisdom, but admit your ignorance. Why prefer yourself to anyone else when many are more learned, more cultured than you?
+
+If you wish to learn and appreciate something worth while, then love to be unknown and considered as nothing. Truly to know and despise self is the best and most perfect counsel. To think of oneself as nothing, and always to think well and highly of others is the best and most perfect wisdom. Wherefore, if you see another sin openly or commit a serious crime, do not consider yourself better, for you do not know how long you can remain in good estate. All men are frail, but you must admit that none is more frail than yourself.
+
+[2] Aristotle, Metaphysics, i. 1.
+
+[3] Augustine, Confessions V. 4.
+
+---
+
+> [[book-1-ch-1|← Previous]] | [[tk-imitation-toc|TOC]] | [[book-1-ch-3|Next →]]
+
+![[bibliography#^biblio-imitation]]

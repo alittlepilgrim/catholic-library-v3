@@ -1,0 +1,116 @@
+---
+type: bible
+title: "Ezekiel, Chapter 41"
+anchor: ezekiel-41
+url: "https://bible.usccb.org/bible/ezekiel/41"
+source: "Confraternity of Christian Doctrine. New American Bible, revised edition. Washington, DC: Confraternity of Christian Doctrine, 2010."
+aliases:
+  - ezekiel-41
+  - "Ezekiel, Chapter 41"
+tags:
+  - bible/chapter
+  - bible/ezekiel
+  - bible/old-testament
+  - graph/bible-ccc
+  - type/bible
+layer: 0
+authority: divine
+scope: universal
+bible_book: ezekiel
+bible_chapter: 41
+created: 2026-04-18
+modified: 2026-09-10
+description: "Ezekiel, Chapter 41"
+---
+
+> [[ezekiel-40|← Previous]] | [[ezekiel-00|TOC]] | [[ezekiel-42|Next →]]
+
+# Ezekiel, Chapter 41
+
+1 Then he brought me to the nave and measured the posts; each was six cubits wide. ^ezekiel-41-1
+
+2 The width of the entrance was ten cubits. ^ezekiel-41-2
+
+3 Then he went inside and measured the posts at the other entrance, two cubits wide. The entrance was six cubits wide, with walls seven cubits long on each side. ^ezekiel-41-3
+
+4 Next he measured the length and width of the room beyond the nave, twenty cubits long and twenty cubits wide. He said to me, 'This is the holy of holies.' ^ezekiel-41-4
+
+5 Then he measured the wall of the temple, six cubits wide, and the width of the side chambers stretching all around the temple, four cubits each. ^ezekiel-41-5
+
+6 There were thirty side chambers, chamber upon chamber in three stories; terraces on the outside wall of the temple enclosing the side chambers provided support, but there were no supports for the temple wall itself. ^ezekiel-41-6
+
+7 A broad passageway led up the side chambers, for the house was enclosed all the way up and all the way around. Thus the temple was widened by the ascent that went from the lowest story through the middle one to the highest story. ^ezekiel-41-7
+
+8 I saw a raised platform all around the temple, the foundation for the side chambers; the width of this terrace was a full rod, six cubits. ^ezekiel-41-8
+
+9 The width of the outside wall enclosing the side chambers was five cubits. There was an open space between the side chambers of the temple ^ezekiel-41-9
+
+10 and the other chambers that measured twenty cubits around the temple on all sides. ^ezekiel-41-10
+
+11 The side chambers had entrances to the open space, one entrance on the north and the other on the south. The width of the wall surrounding the open space was five cubits. ^ezekiel-41-11
+
+12 The building opposite the restricted area on the west side was seventy cubits long and ninety cubits wide, with walls five cubits thick all around it. ^ezekiel-41-12
+
+13 Thus he measured the temple, one hundred cubits long. The restricted area, its building and walls, measured a hundred cubits in length. ^ezekiel-41-13
+
+14 The temple facade, along with the restricted area to the east, was also one hundred cubits wide. ^ezekiel-41-14
+
+15 He then measured the building opposite the restricted area which was behind it, together with its terraces on both sides, one hundred cubits. ^ezekiel-41-15
+
+**Interior of the Temple.**The inner nave and the outer vestibule
+
+16 were paneled; the windows had recesses and precious wood trim around all three sides except the sill. Paneling covered the walls from the floor up to the windows and even the window sections. ^ezekiel-41-16
+
+17 Even above the doorway and in the inner part of the temple and outside as well, around all the walls inside and out, ^ezekiel-41-17
+
+18 were figures of cherubim and palm trees: a palm tree between each pair of cherubim. Each cherub had two faces: ^ezekiel-41-18
+
+19 the face of a human being looked toward one palm tree and the face of a lion looked toward the other palm tree. Thus the figures covered all the walls around the temple. ^ezekiel-41-19
+
+20 From the floor to the lintel of the door, cherubim and palm trees decorated the walls. ^ezekiel-41-20
+
+21 The nave had a square door frame, and inside facing the holy place was something that looked like ^ezekiel-41-21
+
+22 a wooden altar, three cubits high, two cubits long, and two cubits wide. It had corners and a wooden base and sides. He said to me, “This is the table that stands before the LORD.” ^ezekiel-41-22
+
+23 The nave had a double door, and the holy place ^ezekiel-41-23
+
+24 also had a double door; each door had two sections that could move; two sections on one door, and two on the other. ^ezekiel-41-24
+
+25 Cherubim and palm trees decorated the doors of the nave like the decoration on the walls. Outside a wooden lattice faced the vestibule. ^ezekiel-41-25
+
+26 There were recessed windows and palm trees on the side walls of the vestibule. The side chambers of the temple also had latticework. ^ezekiel-41-26
+
+---
+
+\* (40:49 – 41:4) Vestibule…nave…holy of holies: the three divisions of the Temple building in progressing order of sanctity. The last is called “the inner sanctuary” in 1 Kgs 6.
+
+\* (41:6) The description of the three stories of rooms surrounding the Temple building can be compared with Solomon’s Temple in 1 Kgs 6:6; there a step-like or terraced retaining wall supported the Temple building so no beams or nails from these chambers would enter the Temple wall itself.
+
+\* (41:12) The building: the function of this structure behind the Temple is never specified.
+
+\* (41:22) A wooden altar: the altar of incense, standing in the nave at the entrance to the holy of holies.
+
+---
+
+a. (41:1) 1 Kgs 6:3 – 5.
+
+b. (41:4) 1 Kgs 6:20; cf. [[exodus-26#^exodus-26-33|Ex 26:33]]; Heb 9:3 – 8.
+
+c. (41:7) 1 Kgs 6:8.
+
+d. (41:16) 1 Kgs 6:4, 15.
+
+e. (41:18) 1 Kgs 6:18, 29; 7:36.
+
+f. (41:22) [[exodus-25#^exodus-25-23|Ex 25:23]]; Lv 24:5 – 9.
+
+g. (41:23) 1 Kgs 6:32.
+
+h. (41:24) 1 Kgs 6:34.
+
+---
+
+> [[ezekiel-40|← Previous]] | [[ezekiel-00|TOC]] | [[ezekiel-42|Next →]]
+
+![[bibliography#^biblio-nabre]]

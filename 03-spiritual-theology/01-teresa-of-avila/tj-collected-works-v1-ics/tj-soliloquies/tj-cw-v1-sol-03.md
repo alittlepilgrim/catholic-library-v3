@@ -1,0 +1,54 @@
+---
+type: doctor-work
+title: Soliloquy 3. Merciful Redeemer and Just Judge – Soliloquies by Teresa of Ávila
+anchor:
+  - "[[tj-cw-v1-sol]]"
+source: "Teresa of Ávila. The Collected Works of St. Teresa of Avila. Vol. 1: The Book of Her Life; Spiritual Testimonies; Soliloquies. Translated by Kieran Kavanaugh and Otilio Rodriguez. 2nd ed. rev. Washington, DC: ICS Publications, 1987 (11th printing, 2019)."
+author: "[[teresa-of-avila-saint|Teresa of Ávila]]"
+aliases:
+  - sol-3
+  - Soliloquy 3 – Soliloquies
+  - Soliloquy 3. Merciful Redeemer and Just Judge – Soliloquies by Teresa of Ávila
+  - tj-cw-v1-ics-p-445
+  - tj-cw-v1-sol-03-wn
+tags:
+  - author/st-teresa-of-avila
+  - book/tj-sol-ics
+  - term/adam
+  - term/justice
+  - term/love-of-god
+  - type/doctor-work
+  - type/source-index/ics/mary-the-mother-of-god
+layer: 2
+authority: witness
+scope: universal
+created: 2026-06-03
+modified: 2026-09-10
+description: Merciful Redeemer and Just Judge
+---
+
+> [[tj-cw-v1-sol-02|← Soliloquy 2]] | [[tj-cw-v1-sol-toc|TOC]] | [[tj-cw-v1-sol-04|Soliloquy 4 →]]
+
+# Soliloquy 3
+
+**Merciful Redeemer and just Judge**
+
+My soul grew greatly distressed, my God, while considering the glory You’ve prepared for those who persevere in doing Your will, the number of trials and sufferings by which Your Son gained it, and how much in its greatness, love, which at such a cost taught us to love, deserves our gratitude. How is it possible, Lord, that all this love is forgotten and that mortals are so forgetful of You when they offend You? O my Redeemer, and how completely forgetful of themselves they are! What great goodness is Yours, that You then remember us, and that though we have fallen through the mortal wound we inflicted on You, You return to us, forgetful of this, to lend a hand and awaken us from so incurable a madness, that we might seek and beg salvation of you! Blessed be such a Lord; blessed be such great mercy; and praised forever such tender compassion!
+
+2\. Oh, my soul, bless forever so great a God. How is it possible to turn against Him? Oh, how the greatness of Your favor, Lord, harms those who are ungrateful! May You, my God, provide the remedy. Children of the earth, how long will you be hard of heart[^1] and keep your hearts opposed to this most meek Jesus? What is this? Shall our wickedness against Him perhaps endure? No, for the life of humans comes to an end like the flower of the field, and the Virgin’s Son must come to give that terrible sentence.[^2] O my powerful God! Since even though we may not so desire, You must judge us, why don’t we consider how important it is to please You before that hour comes? But who, who will not want so just a judge? Blessed will they be who in that fearful moment rejoice with You, my God and Lord! The soul You have raised up has known how miserably lost it was for the sake of gaining a very brief satisfaction, and it is determined to please You always. Since You, my soul’s Good, do not fail those who desire You or cease to respond to those who call upon You, what remedy, through Your favor, Lord, will You provide that the soul may be able to live afterward and not be dying over the remembrance of having lost the great good it once possessed through the innocence that came from baptism? The best life it can have is to die always with this feeling of compunction. But the soul that loves You tenderly, how can it bear this? ^tj-cw-v1-sol-03-2
+
+3\. Yet, what foolishness I’m asking You, my Lord! It seems I’ve forgotten Your grandeurs and mercies and how You’ve come into the world of sinners and have purchased us for so great a price[^3] and have paid for our false joys by suffering such cruel torments and blows. You have cured my blindness with the blindfold that covered Your divine eyes and my vanity with that cruel crown of thorns! ^tj-cw-v1-sol-03-3
+
+O Lord, Lord! All this saddens more the one who loves You. The only consolation is that Your mercy will be praised forever when my wickedness is known. Nevertheless, I don’t know if this weariness will be taken away until all the miseries of this mortal life are removed by seeing You.
+
+---
+
+[^1]: [[psalm-04#^psalm-04-3|Ps 4:3]].
+[^2]: [[psalm-103#^psalm-103-15|Ps 103:15]]; [[matthew-16#^matthew-16-27|Mt 16:27]].
+[^3]: [[1-peter-01#^1-peter-01-19|1 Pet 1:19]].
+
+---
+
+> [[tj-cw-v1-sol-02|← Soliloquy 2]] | [[tj-cw-v1-sol-toc|TOC]] | [[tj-cw-v1-sol-04|Soliloquy 4 →]]
+
+![[bibliography#^biblio-tj-cw-v1-ics]]

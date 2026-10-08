@@ -1,0 +1,71 @@
+---
+type: reference-work
+title: 10. Invitation to Divine Intimacy
+anchor: gsmm-di
+source: "Gabriel of Saint Mary Magdalen, O.C.D. Divine Intimacy: Meditations on the Interior Life for Every Day of the Liturgical Year. Translated by the Discalced Carmelite Nuns of Boston. Rockford, IL: TAN Books, 1996."
+author: "[[gabriel-of-st-mary-magdalen|Gabriel of St. Mary Magdalen]]"
+aliases:
+  - 10-invitation-to-divine-intimacy
+  - 10. Invitation to Divine Intimacy
+tags:
+  - book/divine-intimacy
+  - subject/prayer
+  - term/god
+  - term/presence-of-god
+  - term/trinity-holy
+  - type/reference-work
+layer: 3
+authority: scholarly
+scope: universal
+celebration_di_name: Second Week of Advent
+di_season: advent
+created: 2026-05-18
+modified: 2026-09-10
+description: "Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D."
+---
+
+> [[9-the-immaculate-conception-of-the-blessed-virgin-mary|← 9. The Immaculate Conception of the Blessed Virgin Mary]] | [[divine-intimacy-toc|TOC]] | [[11-in-search-of-god|11. In Search of God →]]
+
+# 10. Invitation to Divine Intimacy
+
+PRESENCE OF GOD - I recollect myself in the presence of my God living in me by grace, and I ardently desire to come close to Him,
+
+## Meditation 1
+
+“If any one love Me, he will keep My word, and My Father will love him, and We will come to him, and make Our abode with him” [[john-14#^john-14-23|(Jn 14,23)]]. This is the great mystery of the divine indwelling, which assures us, in Jesus’ own words, that the one, triune God is not far away from a soul who loves Him, but rather lives in it and makes His abode in it.
+
+Catholic doctrine teaches that God is necessarily present in all His creatures. In fact, in order to exist, they need not only to be created by Him, but also to be kept in existence by Him. God conserves them by operating in them, that is, by continually communicating existence to them. Since He operates by His substance, He is present wherever He operates, and therefore, in all His creatures. Thus God is everywhere, even in the souls of unbelievers and sinners.
+
+However, in the case of a soul filled with sanctifying grace and charity, there is a special [[presence-of-god|presence of God]], which was promised by Jesus, and which is called indwelling. “The divine Persons are said to be indwelling in as much as They are present to intellectual creatures in a way that lies beyond human comprehension, and are known and loved by them in a purely supernatural manner alone, within the deepest sanctuary of the soul”(Enc. Mystici Corporis). In other words, the three divine Persons are present in the soul that is in the state of grace, so that it may know Them by faith, and love Them by charity, and that They may even make Themselves known to the soul by the intimate illumination of the gifts of the Holy Spirit.
+
+## Meditation 2
+
+The three Persons of the Blessed [[trinity-holy|Trinity]] are present in a soul in the state of grace to invite it to live in Their society, in intimate friendship with Them. Jesus states this clearly and authoritatively: “Abide in Me and I in you” [[john-15#^john-15-4|(Jn 15,4)]]; “I in you and the Father in Me, that you may be perfect in one” (cf. ibid. 17,23); “as Thou, Father, in Me, and I in Thee; that they also may be one in Us” (ibid., 21). But wherever the Father and the Son are, the Holy Spirit is there also, and Jesus has expressly said: “The Spirit of Truth...shall abide with you, and shall be in you” [[john-14#^john-14-17|(ibid. 14,17)]]. To every soul in the state of grace may be repeated in all truth the words which made such an impression on Sr. Elizabeth of the Trinity, “The Father is in you; the Son is in you; the Holy Spirit is in you.”
+
+God is within you as your Father and as the sweet Guest of your soul, to invite you to live, not only by Him, but with Him and in Him. He is within you to manifest Himself to your soul, just as a friend manifests himself to his friend, according to the word of Jesus, “He that loveth Me... I will love him and will manifest Myself to him. I will not now call you servants... but I have called you friends” [[john-14#^john-14-21|(Jn 14,21—15,15)]]. God Himself—God the Father, God the Son, God the Holy Spirit—offers you the invitation to live with Him; He offers you His friendship.
+
+What a tremendous gift! “If thou didst know the gift of God!” (ibid. 4,10).
+
+## Colloquy
+
+O my God, adorable Trinity, make me know Your gift, the immense gift by which You dwell in my poor soul, You, One and Three, You, the Immense, the Omnipotent!
+
+“O Deity eternal, O high, eternal Deity, O sovereign, eternal Father, O ever-burning fire!... What do Your bounty and Your grandeur show? The gift You have given to man. And what gift have You given? Your whole self, O eternal Trinity. And where did You give Yourself? In the stable of our humanity which had become a shelter for animals, that is, mortal sins” ([[catherine-of-siena-saint|St. Catherine of Siena]]).
+
+“O my Lord and my good! I cannot say this without tears and great delight of soul! Is it possible, O Lord, that You love us so much that You wish to be with us? If our faults do not impede us, we may rejoice in You and You will take Your delight in us, since You say that Your delight is to be with the children of men. O my Lord! What is this? Whenever I hear these words they are a great comfort to me. But is it possible, Lord, that after realizing You take delight in it, the soul would turn again to offend You, and to forget so many favors and such signal marks of love that it cannot doubt them, since it sees Your work so clearly? Alas, yes, O Lord, I am this soul. And I have done this, not once, but many times.
+
+“I knew perfectly well that I had a soul, but I did not understand what that soul merited or who dwelt within it. If I had understood then as I do now that You dwell in this little palace of my soul, You who are so great a King, it seems to me I would not have left You alone so often, but would have kept You company from time to time and would have been more diligent to keep it spotless. There is nothing more wonderful than to see You, my God, whose greatness could fill a thousand worlds and still more worlds, confine Yourself within so small a thing! You are the Lord of the world, free to do what You will, and yet, because You love us, You fashion Yourself to our measure” ([[teresa-of-avila-saint|T.J.]] [[tj-life-ccel-toc|Life]], 14 - Way, 28).
+
+O Blessed Trinity, my God, I shall no longer close my ears to Your loving invitation. I do not wish You to be any longer the “great abandoned One” in my soul. Help me to establish all my faculties in You, especially my intellect and my will, so that I shall live in intimate, perpetual union with You. Grant that I may seek You and You alone, that my gaze may always be turned toward You, and that I may suffer, pray, and work with You and in You. O eternal Trinity, my sweet love! O Father, draw me by the power of Your omnipotence! O Son, enlighten me by the brilliance of Your wisdom! O Holy Spirit, inflame me with the burning fire of Your charity!
+
+# References
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+Life - [[tj-life-ccel-toc|Life by Saint Teresa of Avila]]
+
+---
+
+> [[9-the-immaculate-conception-of-the-blessed-virgin-mary|← 9. The Immaculate Conception of the Blessed Virgin Mary]] | [[divine-intimacy-toc|TOC]] | [[11-in-search-of-god|11. In Search of God →]]
+
+![[bibliography#^biblio-di]]

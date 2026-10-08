@@ -1,0 +1,38 @@
+---
+type: saint-work
+title: Chapter XXXVIII. Of the Weekly Reader – The Holy Rule of St. Benedict
+anchor:
+  - "[[bn-rule-of-st-benedict]]"
+source: Christian Classics Ethereal Library (CCEL)
+author: "[[benedict-of-nursia-saint|Benedict of Nursia]]"
+aliases:
+  - Chapter XXXVIII. Of the Weekly Reader
+  - Chapter XXXVIII. Of the Weekly Reader – The Holy Rule of St. Benedict
+tags:
+  - author/benedict-of-nursia
+  - book/rule-of-st-benedict
+  - type/book
+  - type/saint-work
+layer: 2
+authority: witness
+scope: universal
+created: 2026-04-26
+modified: 2026-09-10
+description: Chapter XXXVIII. Of the Weekly Reader
+---
+
+> [[bn-rsb-37|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-39|Next →]]
+
+# Chapter XXXVIII. Of the Weekly Reader
+
+Reading must not be wanting at the table of the brethren when they are eating. Neither let anyone who may chance to take up the book venture to read there; but let him who is to read for the whole week enter upon that office on Sunday. After Mass and Communion let him ask all to pray for him that God may ward off from him the spirit of pride. And let the following verse be said three times by all in the oratory, he beginning it: Domine, labia mea aperies, et os meum annuntiabit laudem tuam (Ps 50[51]:17), and thus having received the blessing let him enter upon the reading.
+
+Let the deepest silence be maintained that no whispering or voice be heard except that of the reader alone. But let the brethren so help each other to what is needed for eating and drinking, that no one need ask for anything. If, however, anything should be wanted, let it be asked for by means of a sign of any kind rather than a sound. And let no one presume to ask any questions there, either about the book or anything else, in order that no cause to speak be given [to the devil] (Eph 4:27; 1 Tm 5:14), unless, perchance, the Superior wisheth to say a few words for edification.
+
+Let the brother who is reader for the week take a little bread and wine before he beginneth to read, on account of Holy Communion, and lest it should be too hard for him to fast so long. Afterward, however, let him take his meal in the kitchen with the weekly servers and the waiters. The brethren, however, will not read or sing in order, but only those who edify their hearers.
+
+---
+
+> [[bn-rsb-37|← Previous]] | [[bn-rule-of-st-benedict-toc|TOC]] | [[bn-rsb-39|Next →]]
+
+![[bibliography#^biblio-rsb]]
